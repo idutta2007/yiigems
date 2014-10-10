@@ -1,0 +1,91 @@
+.aquaNavajoWhite5,
+.hover_aquaNavajoWhite5:hover,
+.active_aquaNavajoWhite5:active {
+    -webkit-box-shadow: 0 0.63em 0.75em rgba(255, 149, 44, .39),
+           inset 0 -0.5em 0.9em 0 #ffba92,
+           inset 0 -0.5em 0em 0.65em rgb(248, 128, 0),
+           inset 0 0em 0.5em 2em rgb(235, 189, 141);
+    -moz-box-shadow: 0 0.63em 0.75em rgba(255, 149, 44, .39),
+           inset 0 -0.5em 0.9em 0 #ffba92,
+           inset 0 -0.5em 0em 0.65em rgb(248, 128, 0),
+           inset 0 0em 0.5em 2em rgb(235, 189, 141);
+    box-shadow: 0 0.63em 0.75em rgba(255, 149, 44, .39),
+           inset 0 -0.5em 0.9em 0 #ffba92,
+           inset 0 -0.5em 0em 0.65em rgb(248, 128, 0),
+           inset 0 0em 0.5em 2em rgb(235, 189, 141);
+}
+
+.aquaNavajoWhite5h,
+.hover_aquaNavajoWhite5h:hover,
+.active_aquaNavajoWhite5h:active {
+    -webkit-box-shadow:0 0.63em 1em rgba(255, 162, 70, .55),
+           inset 0 -0.5em 0.9em 0 #ffdac5,
+           inset 0 -0.5em 0em 0.65em #ffb15f,
+           inset 0 0em 0.5em 2em #fee3c7;
+    -moz-box-shadow:0 0.63em 1em rgba(255, 162, 70, .55),
+           inset 0 -0.5em 0.9em 0 #ffdac5,
+           inset 0 -0.5em 0em 0.65em #ffb15f,
+           inset 0 0em 0.5em 2em #fee3c7;
+    box-shadow:0 0.63em 1em rgba(255, 162, 70, .55),
+           inset 0 -0.5em 0.9em 0 #ffdac5,
+           inset 0 -0.5em 0em 0.65em #ffb15f,
+           inset 0 0em 0.5em 2em #fee3c7;
+}
+
+.aquaNavajoWhite5a,
+.hover_aquaNavajoWhite5a:hover,
+.active_aquaNavajoWhite5a:active {
+    /*background: #db8300;*/
+
+    -webkit-box-shadow:0 0.63em 1em rgba(248, 124, 0, .55),
+           inset 0 -0.5em 0.9em 0 #ffcaac,
+           inset 0 -0.5em 0em 0.65em #ff9627,
+           inset 0 0em 0.5em 2em #ffbe79;
+    -moz-box-shadow:0 0.63em 1em rgba(248, 124, 0, .55),
+           inset 0 -0.5em 0.9em 0 #ffcaac,
+           inset 0 -0.5em 0em 0.65em #ff9627,
+           inset 0 0em 0.5em 2em #ffbe79;
+    box-shadow:0 0.63em 1em rgba(248, 124, 0, .55),
+           inset 0 -0.5em 0.9em 0 #ffcaac,
+           inset 0 -0.5em 0em 0.65em #ff9627,
+           inset 0 0em 0.5em 2em #ffbe79;
+}
+
+/* ------------------------------ color settings ----------------------------*/
+.color_aquaNavajoWhite5,
+.hover_color_aquaNavajoWhite5:hover,
+.active_color_aquaNavajoWhite5:active {
+    color: #282828;
+}
+
+.color_aquaNavajoWhite5h,
+.hover_color_aquaNavajoWhite5h:hover,
+.active_color_aquaNavajoWhite5h:active {
+    color: #c8c8c8;
+}
+
+.color_aquaNavajoWhite5a,
+.hover_color_aquaNavajoWhite5a:hover,
+.active_color_aquaNavajoWhite5a:active {
+    color: #c8c8c8;
+}
+
+/* -------------------------- border settings --------------------------------*/
+.border_aquaNavajoWhite5,
+.hover_border_aquaNavajoWhite5:hover,
+.active_border_aquaNavajoWhite5:active {
+    border-color: #db8300 #db8300 #db8300 #db8300;
+}
+
+.border_aquaNavajoWhite5h,
+.hover_border_aquaNavajoWhite5h:hover,
+.active_border_aquaNavajoWhite5h:active {
+    border-color: #db8300 #db8300 #db8300 #db8300;
+}
+
+.border_aquaNavajoWhite5a,
+.hover_border_aquaNavajoWhite5a:hover,
+.active_border_aquaNavajoWhite5a:active  {
+    border-color: #db8300 #db8300 #db8300 #db8300;
+}
+

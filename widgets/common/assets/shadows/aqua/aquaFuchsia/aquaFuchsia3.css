@@ -1,0 +1,91 @@
+.aquaFuchsia3,
+.hover_aquaFuchsia3:hover,
+.active_aquaFuchsia3:active {
+    -webkit-box-shadow: 0 0.63em 0.75em rgba(245, 154, 255, .39),
+           inset 0 -0.5em 0.9em 0 #ffffff,
+           inset 0 -0.5em 0em 0.65em rgb(242, 103, 255),
+           inset 0 0em 0.5em 2em rgb(250, 234, 251);
+    -moz-box-shadow: 0 0.63em 0.75em rgba(245, 154, 255, .39),
+           inset 0 -0.5em 0.9em 0 #ffffff,
+           inset 0 -0.5em 0em 0.65em rgb(242, 103, 255),
+           inset 0 0em 0.5em 2em rgb(250, 234, 251);
+    box-shadow: 0 0.63em 0.75em rgba(245, 154, 255, .39),
+           inset 0 -0.5em 0.9em 0 #ffffff,
+           inset 0 -0.5em 0em 0.65em rgb(242, 103, 255),
+           inset 0 0em 0.5em 2em rgb(250, 234, 251);
+}
+
+.aquaFuchsia3h,
+.hover_aquaFuchsia3h:hover,
+.active_aquaFuchsia3h:active {
+    -webkit-box-shadow:0 0.63em 1em rgba(247, 180, 255, .55),
+           inset 0 -0.5em 0.9em 0 #ffffff,
+           inset 0 -0.5em 0em 0.65em #fbcdff,
+           inset 0 0em 0.5em 2em #ffffff;
+    -moz-box-shadow:0 0.63em 1em rgba(247, 180, 255, .55),
+           inset 0 -0.5em 0.9em 0 #ffffff,
+           inset 0 -0.5em 0em 0.65em #fbcdff,
+           inset 0 0em 0.5em 2em #ffffff;
+    box-shadow:0 0.63em 1em rgba(247, 180, 255, .55),
+           inset 0 -0.5em 0.9em 0 #ffffff,
+           inset 0 -0.5em 0em 0.65em #fbcdff,
+           inset 0 0em 0.5em 2em #ffffff;
+}
+
+.aquaFuchsia3a,
+.hover_aquaFuchsia3a:hover,
+.active_aquaFuchsia3a:active {
+    /*background: #ff34ff;*/
+
+    -webkit-box-shadow:0 0.63em 1em rgba(240, 103, 255, .55),
+           inset 0 -0.5em 0.9em 0 #ffffff,
+           inset 0 -0.5em 0em 0.65em #f695ff,
+           inset 0 0em 0.5em 2em #fde7ff;
+    -moz-box-shadow:0 0.63em 1em rgba(240, 103, 255, .55),
+           inset 0 -0.5em 0.9em 0 #ffffff,
+           inset 0 -0.5em 0em 0.65em #f695ff,
+           inset 0 0em 0.5em 2em #fde7ff;
+    box-shadow:0 0.63em 1em rgba(240, 103, 255, .55),
+           inset 0 -0.5em 0.9em 0 #ffffff,
+           inset 0 -0.5em 0em 0.65em #f695ff,
+           inset 0 0em 0.5em 2em #fde7ff;
+}
+
+/* ------------------------------ color settings ----------------------------*/
+.color_aquaFuchsia3,
+.hover_color_aquaFuchsia3:hover,
+.active_color_aquaFuchsia3:active {
+    color: #282828;
+}
+
+.color_aquaFuchsia3h,
+.hover_color_aquaFuchsia3h:hover,
+.active_color_aquaFuchsia3h:active {
+    color: #282828;
+}
+
+.color_aquaFuchsia3a,
+.hover_color_aquaFuchsia3a:hover,
+.active_color_aquaFuchsia3a:active {
+    color: #282828;
+}
+
+/* -------------------------- border settings --------------------------------*/
+.border_aquaFuchsia3,
+.hover_border_aquaFuchsia3:hover,
+.active_border_aquaFuchsia3:active {
+    border-color: #ff34ff #ff34ff #ff34ff #ff34ff;
+}
+
+.border_aquaFuchsia3h,
+.hover_border_aquaFuchsia3h:hover,
+.active_border_aquaFuchsia3h:active {
+    border-color: #ff34ff #ff34ff #ff34ff #ff34ff;
+}
+
+.border_aquaFuchsia3a,
+.hover_border_aquaFuchsia3a:hover,
+.active_border_aquaFuchsia3a:active  {
+    border-color: #ff34ff #ff34ff #ff34ff #ff34ff;
+}
+

@@ -1,0 +1,91 @@
+.aquaPeru2,
+.hover_aquaPeru2:hover,
+.active_aquaPeru2:active {
+    -webkit-box-shadow: 0 0.63em 0.75em rgba(237, 205, 185, .39),
+           inset 0 -0.5em 0.9em 0 #ffffff,
+           inset 0 -0.5em 0em 0.65em rgb(247, 174, 123),
+           inset 0 0em 0.5em 2em rgb(251, 249, 247);
+    -moz-box-shadow: 0 0.63em 0.75em rgba(237, 205, 185, .39),
+           inset 0 -0.5em 0.9em 0 #ffffff,
+           inset 0 -0.5em 0em 0.65em rgb(247, 174, 123),
+           inset 0 0em 0.5em 2em rgb(251, 249, 247);
+    box-shadow: 0 0.63em 0.75em rgba(237, 205, 185, .39),
+           inset 0 -0.5em 0.9em 0 #ffffff,
+           inset 0 -0.5em 0em 0.65em rgb(247, 174, 123),
+           inset 0 0em 0.5em 2em rgb(251, 249, 247);
+}
+
+.aquaPeru2h,
+.hover_aquaPeru2h:hover,
+.active_aquaPeru2h:active {
+    -webkit-box-shadow:0 0.63em 1em rgba(242, 220, 205, .55),
+           inset 0 -0.5em 0.9em 0 #ffffff,
+           inset 0 -0.5em 0em 0.65em #f9eadf,
+           inset 0 0em 0.5em 2em #ffffff;
+    -moz-box-shadow:0 0.63em 1em rgba(242, 220, 205, .55),
+           inset 0 -0.5em 0.9em 0 #ffffff,
+           inset 0 -0.5em 0em 0.65em #f9eadf,
+           inset 0 0em 0.5em 2em #ffffff;
+    box-shadow:0 0.63em 1em rgba(242, 220, 205, .55),
+           inset 0 -0.5em 0.9em 0 #ffffff,
+           inset 0 -0.5em 0em 0.65em #f9eadf,
+           inset 0 0em 0.5em 2em #ffffff;
+}
+
+.aquaPeru2a,
+.hover_aquaPeru2a:hover,
+.active_aquaPeru2a:active {
+    /*background: #d79e66;*/
+
+    -webkit-box-shadow:0 0.63em 1em rgba(237, 174, 134, .55),
+           inset 0 -0.5em 0.9em 0 #ffffff,
+           inset 0 -0.5em 0em 0.65em #f7c9a9,
+           inset 0 0em 0.5em 2em #fdf8f5;
+    -moz-box-shadow:0 0.63em 1em rgba(237, 174, 134, .55),
+           inset 0 -0.5em 0.9em 0 #ffffff,
+           inset 0 -0.5em 0em 0.65em #f7c9a9,
+           inset 0 0em 0.5em 2em #fdf8f5;
+    box-shadow:0 0.63em 1em rgba(237, 174, 134, .55),
+           inset 0 -0.5em 0.9em 0 #ffffff,
+           inset 0 -0.5em 0em 0.65em #f7c9a9,
+           inset 0 0em 0.5em 2em #fdf8f5;
+}
+
+/* ------------------------------ color settings ----------------------------*/
+.color_aquaPeru2,
+.hover_color_aquaPeru2:hover,
+.active_color_aquaPeru2:active {
+    color: #282828;
+}
+
+.color_aquaPeru2h,
+.hover_color_aquaPeru2h:hover,
+.active_color_aquaPeru2h:active {
+    color: #282828;
+}
+
+.color_aquaPeru2a,
+.hover_color_aquaPeru2a:hover,
+.active_color_aquaPeru2a:active {
+    color: #282828;
+}
+
+/* -------------------------- border settings --------------------------------*/
+.border_aquaPeru2,
+.hover_border_aquaPeru2:hover,
+.active_border_aquaPeru2:active {
+    border-color: #d79e66 #d79e66 #d79e66 #d79e66;
+}
+
+.border_aquaPeru2h,
+.hover_border_aquaPeru2h:hover,
+.active_border_aquaPeru2h:active {
+    border-color: #d79e66 #d79e66 #d79e66 #d79e66;
+}
+
+.border_aquaPeru2a,
+.hover_border_aquaPeru2a:hover,
+.active_border_aquaPeru2a:active  {
+    border-color: #d79e66 #d79e66 #d79e66 #d79e66;
+}
+

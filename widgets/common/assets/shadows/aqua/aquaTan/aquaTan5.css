@@ -1,0 +1,91 @@
+.aquaTan5,
+.hover_aquaTan5:hover,
+.active_aquaTan5:active {
+    -webkit-box-shadow: 0 0.63em 0.75em rgba(188, 133, 84, .39),
+           inset 0 -0.5em 0.9em 0 #e0af97,
+           inset 0 -0.5em 0em 0.65em rgb(192, 109, 29),
+           inset 0 0em 0.5em 2em rgb(186, 174, 163);
+    -moz-box-shadow: 0 0.63em 0.75em rgba(188, 133, 84, .39),
+           inset 0 -0.5em 0.9em 0 #e0af97,
+           inset 0 -0.5em 0em 0.65em rgb(192, 109, 29),
+           inset 0 0em 0.5em 2em rgb(186, 174, 163);
+    box-shadow: 0 0.63em 0.75em rgba(188, 133, 84, .39),
+           inset 0 -0.5em 0.9em 0 #e0af97,
+           inset 0 -0.5em 0em 0.65em rgb(192, 109, 29),
+           inset 0 0em 0.5em 2em rgb(186, 174, 163);
+}
+
+.aquaTan5h,
+.hover_aquaTan5h:hover,
+.active_aquaTan5h:active {
+    -webkit-box-shadow:0 0.63em 1em rgba(195, 146, 103, .55),
+           inset 0 -0.5em 0.9em 0 #ebcdbe,
+           inset 0 -0.5em 0em 0.65em #d4a170,
+           inset 0 0em 0.5em 2em #e5d4c4;
+    -moz-box-shadow:0 0.63em 1em rgba(195, 146, 103, .55),
+           inset 0 -0.5em 0.9em 0 #ebcdbe,
+           inset 0 -0.5em 0em 0.65em #d4a170,
+           inset 0 0em 0.5em 2em #e5d4c4;
+    box-shadow:0 0.63em 1em rgba(195, 146, 103, .55),
+           inset 0 -0.5em 0.9em 0 #ebcdbe,
+           inset 0 -0.5em 0em 0.65em #d4a170,
+           inset 0 0em 0.5em 2em #e5d4c4;
+}
+
+.aquaTan5a,
+.hover_aquaTan5a:hover,
+.active_aquaTan5a:active {
+    /*background: #8e6938;*/
+
+    -webkit-box-shadow:0 0.63em 1em rgba(176, 107, 46, .55),
+           inset 0 -0.5em 0.9em 0 #eebca2,
+           inset 0 -0.5em 0em 0.65em #d98432,
+           inset 0 0em 0.5em 2em #daad83;
+    -moz-box-shadow:0 0.63em 1em rgba(176, 107, 46, .55),
+           inset 0 -0.5em 0.9em 0 #eebca2,
+           inset 0 -0.5em 0em 0.65em #d98432,
+           inset 0 0em 0.5em 2em #daad83;
+    box-shadow:0 0.63em 1em rgba(176, 107, 46, .55),
+           inset 0 -0.5em 0.9em 0 #eebca2,
+           inset 0 -0.5em 0em 0.65em #d98432,
+           inset 0 0em 0.5em 2em #daad83;
+}
+
+/* ------------------------------ color settings ----------------------------*/
+.color_aquaTan5,
+.hover_color_aquaTan5:hover,
+.active_color_aquaTan5:active {
+    color: #282828;
+}
+
+.color_aquaTan5h,
+.hover_color_aquaTan5h:hover,
+.active_color_aquaTan5h:active {
+    color: #c8c8c8;
+}
+
+.color_aquaTan5a,
+.hover_color_aquaTan5a:hover,
+.active_color_aquaTan5a:active {
+    color: #c8c8c8;
+}
+
+/* -------------------------- border settings --------------------------------*/
+.border_aquaTan5,
+.hover_border_aquaTan5:hover,
+.active_border_aquaTan5:active {
+    border-color: #8e6938 #8e6938 #8e6938 #8e6938;
+}
+
+.border_aquaTan5h,
+.hover_border_aquaTan5h:hover,
+.active_border_aquaTan5h:active {
+    border-color: #8e6938 #8e6938 #8e6938 #8e6938;
+}
+
+.border_aquaTan5a,
+.hover_border_aquaTan5a:hover,
+.active_border_aquaTan5a:active  {
+    border-color: #8e6938 #8e6938 #8e6938 #8e6938;
+}
+

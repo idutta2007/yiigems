@@ -1,0 +1,91 @@
+.aquaSnow7,
+.hover_aquaSnow7:hover,
+.active_aquaSnow7:active {
+    -webkit-box-shadow: 0 0.63em 0.75em rgba(228, 0, 23, .39),
+           inset 0 -0.5em 0.9em 0 #ff4b75,
+           inset 0 -0.5em 0em 0.65em rgb(177, 0, 15),
+           inset 0 0em 0.5em 2em rgb(224, 80, 92);
+    -moz-box-shadow: 0 0.63em 0.75em rgba(228, 0, 23, .39),
+           inset 0 -0.5em 0.9em 0 #ff4b75,
+           inset 0 -0.5em 0em 0.65em rgb(177, 0, 15),
+           inset 0 0em 0.5em 2em rgb(224, 80, 92);
+    box-shadow: 0 0.63em 0.75em rgba(228, 0, 23, .39),
+           inset 0 -0.5em 0.9em 0 #ff4b75,
+           inset 0 -0.5em 0em 0.65em rgb(177, 0, 15),
+           inset 0 0em 0.5em 2em rgb(224, 80, 92);
+}
+
+.aquaSnow7h,
+.hover_aquaSnow7h:hover,
+.active_aquaSnow7h:active {
+    -webkit-box-shadow:0 0.63em 1em rgba(253, 0, 25, .55),
+           inset 0 -0.5em 0.9em 0 #ff7e9c,
+           inset 0 -0.5em 0em 0.65em #ff182b,
+           inset 0 0em 0.5em 2em #fc818b;
+    -moz-box-shadow:0 0.63em 1em rgba(253, 0, 25, .55),
+           inset 0 -0.5em 0.9em 0 #ff7e9c,
+           inset 0 -0.5em 0em 0.65em #ff182b,
+           inset 0 0em 0.5em 2em #fc818b;
+    box-shadow:0 0.63em 1em rgba(253, 0, 25, .55),
+           inset 0 -0.5em 0.9em 0 #ff7e9c,
+           inset 0 -0.5em 0em 0.65em #ff182b,
+           inset 0 0em 0.5em 2em #fc818b;
+}
+
+.aquaSnow7a,
+.hover_aquaSnow7a:hover,
+.active_aquaSnow7a:active {
+    /*background: #f20000;*/
+
+    -webkit-box-shadow:0 0.63em 1em rgba(177, 0, 18, .55),
+           inset 0 -0.5em 0.9em 0 #ff6488,
+           inset 0 -0.5em 0em 0.65em #de0013,
+           inset 0 0em 0.5em 2em #ff3142;
+    -moz-box-shadow:0 0.63em 1em rgba(177, 0, 18, .55),
+           inset 0 -0.5em 0.9em 0 #ff6488,
+           inset 0 -0.5em 0em 0.65em #de0013,
+           inset 0 0em 0.5em 2em #ff3142;
+    box-shadow:0 0.63em 1em rgba(177, 0, 18, .55),
+           inset 0 -0.5em 0.9em 0 #ff6488,
+           inset 0 -0.5em 0em 0.65em #de0013,
+           inset 0 0em 0.5em 2em #ff3142;
+}
+
+/* ------------------------------ color settings ----------------------------*/
+.color_aquaSnow7,
+.hover_color_aquaSnow7:hover,
+.active_color_aquaSnow7:active {
+    color: #c8c8c8;
+}
+
+.color_aquaSnow7h,
+.hover_color_aquaSnow7h:hover,
+.active_color_aquaSnow7h:active {
+    color: #c8c8c8;
+}
+
+.color_aquaSnow7a,
+.hover_color_aquaSnow7a:hover,
+.active_color_aquaSnow7a:active {
+    color: #c8c8c8;
+}
+
+/* -------------------------- border settings --------------------------------*/
+.border_aquaSnow7,
+.hover_border_aquaSnow7:hover,
+.active_border_aquaSnow7:active {
+    border-color: #a20000 #a20000 #a20000 #a20000;
+}
+
+.border_aquaSnow7h,
+.hover_border_aquaSnow7h:hover,
+.active_border_aquaSnow7h:active {
+    border-color: #a20000 #a20000 #a20000 #a20000;
+}
+
+.border_aquaSnow7a,
+.hover_border_aquaSnow7a:hover,
+.active_border_aquaSnow7a:active  {
+    border-color: #a20000 #a20000 #a20000 #a20000;
+}
+

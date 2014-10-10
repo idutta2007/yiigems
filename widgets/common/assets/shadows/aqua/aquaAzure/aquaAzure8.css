@@ -1,0 +1,91 @@
+.aquaAzure8,
+.hover_aquaAzure8:hover,
+.active_aquaAzure8:active {
+    -webkit-box-shadow: 0 0.63em 0.75em rgba(0, 164, 148, .39),
+           inset 0 -0.5em 0.9em 0 #0bffc6,
+           inset 0 -0.5em 0em 0.65em rgb(0, 113, 104),
+           inset 0 0em 0.5em 2em rgb(36, 205, 190);
+    -moz-box-shadow: 0 0.63em 0.75em rgba(0, 164, 148, .39),
+           inset 0 -0.5em 0.9em 0 #0bffc6,
+           inset 0 -0.5em 0em 0.65em rgb(0, 113, 104),
+           inset 0 0em 0.5em 2em rgb(36, 205, 190);
+    box-shadow: 0 0.63em 0.75em rgba(0, 164, 148, .39),
+           inset 0 -0.5em 0.9em 0 #0bffc6,
+           inset 0 -0.5em 0em 0.65em rgb(0, 113, 104),
+           inset 0 0em 0.5em 2em rgb(36, 205, 190);
+}
+
+.aquaAzure8h,
+.hover_aquaAzure8h:hover,
+.active_aquaAzure8h:active {
+    -webkit-box-shadow:0 0.63em 1em rgba(0, 190, 171, .55),
+           inset 0 -0.5em 0.9em 0 #3effd2,
+           inset 0 -0.5em 0em 0.65em #00d7c5,
+           inset 0 0em 0.5em 2em #43faeb;
+    -moz-box-shadow:0 0.63em 1em rgba(0, 190, 171, .55),
+           inset 0 -0.5em 0.9em 0 #3effd2,
+           inset 0 -0.5em 0em 0.65em #00d7c5,
+           inset 0 0em 0.5em 2em #43faeb;
+    box-shadow:0 0.63em 1em rgba(0, 190, 171, .55),
+           inset 0 -0.5em 0.9em 0 #3effd2,
+           inset 0 -0.5em 0em 0.65em #00d7c5,
+           inset 0 0em 0.5em 2em #43faeb;
+}
+
+.aquaAzure8a,
+.hover_aquaAzure8a:hover,
+.active_aquaAzure8a:active {
+    /*background: #00a6a6;*/
+
+    -webkit-box-shadow:0 0.63em 1em rgba(0, 113, 102, .55),
+           inset 0 -0.5em 0.9em 0 #25ffcc,
+           inset 0 -0.5em 0em 0.65em #009f92,
+           inset 0 0em 0.5em 2em #00f1dd;
+    -moz-box-shadow:0 0.63em 1em rgba(0, 113, 102, .55),
+           inset 0 -0.5em 0.9em 0 #25ffcc,
+           inset 0 -0.5em 0em 0.65em #009f92,
+           inset 0 0em 0.5em 2em #00f1dd;
+    box-shadow:0 0.63em 1em rgba(0, 113, 102, .55),
+           inset 0 -0.5em 0.9em 0 #25ffcc,
+           inset 0 -0.5em 0em 0.65em #009f92,
+           inset 0 0em 0.5em 2em #00f1dd;
+}
+
+/* ------------------------------ color settings ----------------------------*/
+.color_aquaAzure8,
+.hover_color_aquaAzure8:hover,
+.active_color_aquaAzure8:active {
+    color: #282828;
+}
+
+.color_aquaAzure8h,
+.hover_color_aquaAzure8h:hover,
+.active_color_aquaAzure8h:active {
+    color: #c8c8c8;
+}
+
+.color_aquaAzure8a,
+.hover_color_aquaAzure8a:hover,
+.active_color_aquaAzure8a:active {
+    color: #c8c8c8;
+}
+
+/* -------------------------- border settings --------------------------------*/
+.border_aquaAzure8,
+.hover_border_aquaAzure8:hover,
+.active_border_aquaAzure8:active {
+    border-color: #006f6f #006f6f #006f6f #006f6f;
+}
+
+.border_aquaAzure8h,
+.hover_border_aquaAzure8h:hover,
+.active_border_aquaAzure8h:active {
+    border-color: #006f6f #006f6f #006f6f #006f6f;
+}
+
+.border_aquaAzure8a,
+.hover_border_aquaAzure8a:hover,
+.active_border_aquaAzure8a:active  {
+    border-color: #006f6f #006f6f #006f6f #006f6f;
+}
+

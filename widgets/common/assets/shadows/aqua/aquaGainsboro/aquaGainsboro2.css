@@ -1,0 +1,91 @@
+.aquaGainsboro2,
+.hover_aquaGainsboro2:hover,
+.active_aquaGainsboro2:active {
+    -webkit-box-shadow: 0 0.63em 0.75em rgba(233, 233, 233, .39),
+           inset 0 -0.5em 0.9em 0 #ffffff,
+           inset 0 -0.5em 0em 0.65em rgb(222, 193, 193),
+           inset 0 0em 0.5em 2em rgb(255, 255, 255);
+    -moz-box-shadow: 0 0.63em 0.75em rgba(233, 233, 233, .39),
+           inset 0 -0.5em 0.9em 0 #ffffff,
+           inset 0 -0.5em 0em 0.65em rgb(222, 193, 193),
+           inset 0 0em 0.5em 2em rgb(255, 255, 255);
+    box-shadow: 0 0.63em 0.75em rgba(233, 233, 233, .39),
+           inset 0 -0.5em 0.9em 0 #ffffff,
+           inset 0 -0.5em 0em 0.65em rgb(222, 193, 193),
+           inset 0 0em 0.5em 2em rgb(255, 255, 255);
+}
+
+.aquaGainsboro2h,
+.hover_aquaGainsboro2h:hover,
+.active_aquaGainsboro2h:active {
+    -webkit-box-shadow:0 0.63em 1em rgba(246, 246, 246, .55),
+           inset 0 -0.5em 0.9em 0 #ffffff,
+           inset 0 -0.5em 0em 0.65em #ffffff,
+           inset 0 0em 0.5em 2em #ffffff;
+    -moz-box-shadow:0 0.63em 1em rgba(246, 246, 246, .55),
+           inset 0 -0.5em 0.9em 0 #ffffff,
+           inset 0 -0.5em 0em 0.65em #ffffff,
+           inset 0 0em 0.5em 2em #ffffff;
+    box-shadow:0 0.63em 1em rgba(246, 246, 246, .55),
+           inset 0 -0.5em 0.9em 0 #ffffff,
+           inset 0 -0.5em 0em 0.65em #ffffff,
+           inset 0 0em 0.5em 2em #ffffff;
+}
+
+.aquaGainsboro2a,
+.hover_aquaGainsboro2a:hover,
+.active_aquaGainsboro2a:active {
+    /*background: #b0b0b0;*/
+
+    -webkit-box-shadow:0 0.63em 1em rgba(214, 200, 200, .55),
+           inset 0 -0.5em 0.9em 0 #ffffff,
+           inset 0 -0.5em 0em 0.65em #ece0e0,
+           inset 0 0em 0.5em 2em #ffffff;
+    -moz-box-shadow:0 0.63em 1em rgba(214, 200, 200, .55),
+           inset 0 -0.5em 0.9em 0 #ffffff,
+           inset 0 -0.5em 0em 0.65em #ece0e0,
+           inset 0 0em 0.5em 2em #ffffff;
+    box-shadow:0 0.63em 1em rgba(214, 200, 200, .55),
+           inset 0 -0.5em 0.9em 0 #ffffff,
+           inset 0 -0.5em 0em 0.65em #ece0e0,
+           inset 0 0em 0.5em 2em #ffffff;
+}
+
+/* ------------------------------ color settings ----------------------------*/
+.color_aquaGainsboro2,
+.hover_color_aquaGainsboro2:hover,
+.active_color_aquaGainsboro2:active {
+    color: #282828;
+}
+
+.color_aquaGainsboro2h,
+.hover_color_aquaGainsboro2h:hover,
+.active_color_aquaGainsboro2h:active {
+    color: #282828;
+}
+
+.color_aquaGainsboro2a,
+.hover_color_aquaGainsboro2a:hover,
+.active_color_aquaGainsboro2a:active {
+    color: #282828;
+}
+
+/* -------------------------- border settings --------------------------------*/
+.border_aquaGainsboro2,
+.hover_border_aquaGainsboro2:hover,
+.active_border_aquaGainsboro2:active {
+    border-color: #b0b0b0 #b0b0b0 #b0b0b0 #b0b0b0;
+}
+
+.border_aquaGainsboro2h,
+.hover_border_aquaGainsboro2h:hover,
+.active_border_aquaGainsboro2h:active {
+    border-color: #b0b0b0 #b0b0b0 #b0b0b0 #b0b0b0;
+}
+
+.border_aquaGainsboro2a,
+.hover_border_aquaGainsboro2a:hover,
+.active_border_aquaGainsboro2a:active  {
+    border-color: #b0b0b0 #b0b0b0 #b0b0b0 #b0b0b0;
+}
+

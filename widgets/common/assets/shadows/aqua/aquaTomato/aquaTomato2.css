@@ -1,0 +1,91 @@
+.aquaTomato2,
+.hover_aquaTomato2:hover,
+.active_aquaTomato2:active {
+    -webkit-box-shadow: 0 0.63em 0.75em rgba(255, 210, 207, .39),
+           inset 0 -0.5em 0.9em 0 #ffffff,
+           inset 0 -0.5em 0em 0.65em rgb(255, 163, 156),
+           inset 0 0em 0.5em 2em rgb(255, 255, 255);
+    -moz-box-shadow: 0 0.63em 0.75em rgba(255, 210, 207, .39),
+           inset 0 -0.5em 0.9em 0 #ffffff,
+           inset 0 -0.5em 0em 0.65em rgb(255, 163, 156),
+           inset 0 0em 0.5em 2em rgb(255, 255, 255);
+    box-shadow: 0 0.63em 0.75em rgba(255, 210, 207, .39),
+           inset 0 -0.5em 0.9em 0 #ffffff,
+           inset 0 -0.5em 0em 0.65em rgb(255, 163, 156),
+           inset 0 0em 0.5em 2em rgb(255, 255, 255);
+}
+
+.aquaTomato2h,
+.hover_aquaTomato2h:hover,
+.active_aquaTomato2h:active {
+    -webkit-box-shadow:0 0.63em 1em rgba(255, 234, 233, .55),
+           inset 0 -0.5em 0.9em 0 #ffffff,
+           inset 0 -0.5em 0em 0.65em #ffffff,
+           inset 0 0em 0.5em 2em #ffffff;
+    -moz-box-shadow:0 0.63em 1em rgba(255, 234, 233, .55),
+           inset 0 -0.5em 0.9em 0 #ffffff,
+           inset 0 -0.5em 0em 0.65em #ffffff,
+           inset 0 0em 0.5em 2em #ffffff;
+    box-shadow:0 0.63em 1em rgba(255, 234, 233, .55),
+           inset 0 -0.5em 0.9em 0 #ffffff,
+           inset 0 -0.5em 0em 0.65em #ffffff,
+           inset 0 0em 0.5em 2em #ffffff;
+}
+
+.aquaTomato2a,
+.hover_aquaTomato2a:hover,
+.active_aquaTomato2a:active {
+    /*background: #ff775e;*/
+
+    -webkit-box-shadow:0 0.63em 1em rgba(255, 162, 156, .55),
+           inset 0 -0.5em 0.9em 0 #ffffff,
+           inset 0 -0.5em 0em 0.65em #ffceca,
+           inset 0 0em 0.5em 2em #ffffff;
+    -moz-box-shadow:0 0.63em 1em rgba(255, 162, 156, .55),
+           inset 0 -0.5em 0.9em 0 #ffffff,
+           inset 0 -0.5em 0em 0.65em #ffceca,
+           inset 0 0em 0.5em 2em #ffffff;
+    box-shadow:0 0.63em 1em rgba(255, 162, 156, .55),
+           inset 0 -0.5em 0.9em 0 #ffffff,
+           inset 0 -0.5em 0em 0.65em #ffceca,
+           inset 0 0em 0.5em 2em #ffffff;
+}
+
+/* ------------------------------ color settings ----------------------------*/
+.color_aquaTomato2,
+.hover_color_aquaTomato2:hover,
+.active_color_aquaTomato2:active {
+    color: #282828;
+}
+
+.color_aquaTomato2h,
+.hover_color_aquaTomato2h:hover,
+.active_color_aquaTomato2h:active {
+    color: #282828;
+}
+
+.color_aquaTomato2a,
+.hover_color_aquaTomato2a:hover,
+.active_color_aquaTomato2a:active {
+    color: #282828;
+}
+
+/* -------------------------- border settings --------------------------------*/
+.border_aquaTomato2,
+.hover_border_aquaTomato2:hover,
+.active_border_aquaTomato2:active {
+    border-color: #ff775e #ff775e #ff775e #ff775e;
+}
+
+.border_aquaTomato2h,
+.hover_border_aquaTomato2h:hover,
+.active_border_aquaTomato2h:active {
+    border-color: #ff775e #ff775e #ff775e #ff775e;
+}
+
+.border_aquaTomato2a,
+.hover_border_aquaTomato2a:hover,
+.active_border_aquaTomato2a:active  {
+    border-color: #ff775e #ff775e #ff775e #ff775e;
+}
+

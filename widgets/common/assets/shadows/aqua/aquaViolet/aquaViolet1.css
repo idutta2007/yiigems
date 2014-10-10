@@ -1,0 +1,91 @@
+.aquaViolet1,
+.hover_aquaViolet1:hover,
+.active_aquaViolet1:active {
+    -webkit-box-shadow: 0 0.63em 0.75em rgba(244, 204, 248, .39),
+           inset 0 -0.5em 0.9em 0 #ffffff,
+           inset 0 -0.5em 0em 0.65em rgb(246, 146, 255),
+           inset 0 0em 0.5em 2em rgb(255, 255, 255);
+    -moz-box-shadow: 0 0.63em 0.75em rgba(244, 204, 248, .39),
+           inset 0 -0.5em 0.9em 0 #ffffff,
+           inset 0 -0.5em 0em 0.65em rgb(246, 146, 255),
+           inset 0 0em 0.5em 2em rgb(255, 255, 255);
+    box-shadow: 0 0.63em 0.75em rgba(244, 204, 248, .39),
+           inset 0 -0.5em 0.9em 0 #ffffff,
+           inset 0 -0.5em 0em 0.65em rgb(246, 146, 255),
+           inset 0 0em 0.5em 2em rgb(255, 255, 255);
+}
+
+.aquaViolet1h,
+.hover_aquaViolet1h:hover,
+.active_aquaViolet1h:active {
+    -webkit-box-shadow:0 0.63em 1em rgba(249, 226, 251, .55),
+           inset 0 -0.5em 0.9em 0 #ffffff,
+           inset 0 -0.5em 0em 0.65em #fef8fe,
+           inset 0 0em 0.5em 2em #ffffff;
+    -moz-box-shadow:0 0.63em 1em rgba(249, 226, 251, .55),
+           inset 0 -0.5em 0.9em 0 #ffffff,
+           inset 0 -0.5em 0em 0.65em #fef8fe,
+           inset 0 0em 0.5em 2em #ffffff;
+    box-shadow:0 0.63em 1em rgba(249, 226, 251, .55),
+           inset 0 -0.5em 0.9em 0 #ffffff,
+           inset 0 -0.5em 0em 0.65em #fef8fe,
+           inset 0 0em 0.5em 2em #ffffff;
+}
+
+.aquaViolet1a,
+.hover_aquaViolet1a:hover,
+.active_aquaViolet1a:active {
+    /*background: #eb6aeb;*/
+
+    -webkit-box-shadow:0 0.63em 1em rgba(240, 150, 250, .55),
+           inset 0 -0.5em 0.9em 0 #ffffff,
+           inset 0 -0.5em 0em 0.65em #fabfff,
+           inset 0 0em 0.5em 2em #ffffff;
+    -moz-box-shadow:0 0.63em 1em rgba(240, 150, 250, .55),
+           inset 0 -0.5em 0.9em 0 #ffffff,
+           inset 0 -0.5em 0em 0.65em #fabfff,
+           inset 0 0em 0.5em 2em #ffffff;
+    box-shadow:0 0.63em 1em rgba(240, 150, 250, .55),
+           inset 0 -0.5em 0.9em 0 #ffffff,
+           inset 0 -0.5em 0em 0.65em #fabfff,
+           inset 0 0em 0.5em 2em #ffffff;
+}
+
+/* ------------------------------ color settings ----------------------------*/
+.color_aquaViolet1,
+.hover_color_aquaViolet1:hover,
+.active_color_aquaViolet1:active {
+    color: #282828;
+}
+
+.color_aquaViolet1h,
+.hover_color_aquaViolet1h:hover,
+.active_color_aquaViolet1h:active {
+    color: #282828;
+}
+
+.color_aquaViolet1a,
+.hover_color_aquaViolet1a:hover,
+.active_color_aquaViolet1a:active {
+    color: #282828;
+}
+
+/* -------------------------- border settings --------------------------------*/
+.border_aquaViolet1,
+.hover_border_aquaViolet1:hover,
+.active_border_aquaViolet1:active {
+    border-color: #eb6aeb #eb6aeb #eb6aeb #eb6aeb;
+}
+
+.border_aquaViolet1h,
+.hover_border_aquaViolet1h:hover,
+.active_border_aquaViolet1h:active {
+    border-color: #eb6aeb #eb6aeb #eb6aeb #eb6aeb;
+}
+
+.border_aquaViolet1a,
+.hover_border_aquaViolet1a:hover,
+.active_border_aquaViolet1a:active  {
+    border-color: #eb6aeb #eb6aeb #eb6aeb #eb6aeb;
+}
+
