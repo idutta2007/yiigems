@@ -1,0 +1,84 @@
+.dropdownBtn{
+    display: inline-block;
+    padding: .5em 1em;
+    margin: 0 0.5em 0.5em 0;
+    margin-bottom: 0px;
+    line-height:1.2em;
+    text-align: center;
+    vertical-align: middle;
+    outline: none;
+    cursor: pointer;
+    text-decoration: none;
+    font-weight:normal;
+    text-shadow: 1px 1px 1px rgba(0,0,0,.4);
+    border-width: 0.15ex;
+}
+
+.dropdownBtn:hover {
+	text-decoration: none;
+}
+
+.dropdownBtn.selected {
+    cursor:default;
+}
+
+.dropdownBtn [class^="icon-"] {
+    line-height: 1.2em;
+    vertical-align: baseline;
+    opacity: 0.6;
+}
+
+.dropdownBtn [class^="icon-"].pull-left{
+    margin-right: 0.5em;
+}
+
+.dropdownBtn [class^="icon-"].pull-right{
+    margin-left: 0.5em;
+}
+
+.dropdownBtn:hover [class^="icon-"] {
+    opacity: 1;
+}
+
+.btn-dropdown {
+    display: none;
+    position: absolute;
+    border: 1px solid gray;
+    width: 20ex;
+    background: white;
+    overflow: hidden;
+    -webkit-box-shadow: 0.5em 0.5em 1em #999;
+    -moz-box-shadow: 0.5em 0.5em 1em #999;
+    box-shadow: 0.5em 0.5em 1em #999;
+}
+
+.btn-dropdown li{
+    display: block;
+    padding: 0;
+}
+
+.btn-dropdown li:hover{
+    background-color: #dfdfdf;
+}
+
+.btn-dropdown li.separator:hover{
+    background-color: transparent;
+}
+
+.btn-dropdown li.separator hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 0.5em 0;
+    padding: 0;
+}
+
+.btn-dropdown li a {
+    display: block;
+    width: 100%;
+    color: black;
+    display: inline-block;
+    padding: 0.75ex 3ex;
+    text-decoration: none;
+}

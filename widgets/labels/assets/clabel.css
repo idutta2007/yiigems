@@ -1,0 +1,25 @@
+
+.clabel {
+    display:inline-block;
+    white-space: nowrap;
+    margin-right: 0.5em;
+    padding: 0ex 1ex;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.4);
+    height: 1.6em;
+    line-height: 1.6em;
+    vertical-align: baseline;
+    text-align: center;
+    color:white;
+    text-indent: 0px;
+    border:none;
+}
+
+.clabel.empty {
+    display:none;
+}
+
+.clabel>[class^="icon-"] {
+    font-size:inherit;
+    line-height: 1.6em;
+    vertical-align: middle;
+}

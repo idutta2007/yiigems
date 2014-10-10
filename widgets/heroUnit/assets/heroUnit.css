@@ -1,0 +1,21 @@
+.heroUnit {
+    padding: 30px 50px;
+    margin-bottom: 30px;
+}
+
+.heroUnit h1 {
+    margin-bottom: 0;
+    line-height: 1;
+    letter-spacing: -1px;
+    color: inherit;
+    text-rendering: optimizelegibility;
+}
+
+.heroUnit p {
+    margin-top:1ex;
+    margin-bottom:1ex;
+    font-size: 18px;
+    font-weight: 200;
+    line-height: 27px;
+    text-rendering: optimizelegibility;
+}

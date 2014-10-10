@@ -1,0 +1,50 @@
+.iconButton{
+    display: inline-block;
+    padding: 0.1em 0.5em;
+    margin: 0 0.5em 0em 0;
+    margin-bottom: 0px;
+    line-height:1.2em;
+    text-align: center;
+    vertical-align: middle;
+    outline: none;
+    cursor: pointer;
+    text-decoration: none;
+    font-weight:normal;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.iconButton:hover {
+	text-decoration: none;
+}
+
+.iconButton:active {
+	position: relative;
+}
+
+.iconButton.selected {
+    cursor:default;
+}
+
+.iconButton.selected:active {
+	position: relative;
+	top: 0px;
+}
+
+.iconButton [class^="icon-"] {
+    line-height: 1.4em;
+    vertical-align: middle;
+    opacity: 0.8;
+}
+
+.iconButton [class^="icon-"].pull-left{
+    margin-right: 0.5em;
+}
+
+.iconButton [class^="icon-"].pull-right{
+    margin-left: 0.5em;
+}
+
+.iconButton:hover [class^="icon-"] {
+    opacity: 1;
+}

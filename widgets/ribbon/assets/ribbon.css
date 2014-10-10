@@ -1,0 +1,120 @@
+.ribbon {
+    padding:0;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+.ribbon .innerDiv{
+    position:relative;
+}
+
+.ribbon .leftCollar {
+    position: absolute;
+    left:0px;
+    width:0px;
+    height:0px;
+    border-style: solid;
+}
+
+.ribbon .rightCollar {
+    position: absolute;
+    right:0px;
+    width:0px;
+    height:0px;
+    border-style: solid;
+}
+
+.ribbon .triangleLeft, .ribbon .triangleRight  {
+    position:absolute;
+    width: 0px;
+    height: 0px;
+    border-style:solid;
+}
+
+.ribbon .stitchTop, .ribbon .stitchBottom {
+    position:absolute;
+    border:1px dashed gray;
+    border-bottom-width:0px;
+    height:0;
+}
+
+.ribbon .ribbonContent {
+    position:absolute;
+}
+
+/* ============================= Ribbon Text =================================*/
+
+.ribbon .ribbonContent .bannerText {
+    line-height: inherit;
+    text-align:center;
+    vertical-align: baseline;
+    color: #ccc;
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.4);
+}
+
+.ribbon .ribbonContent [class^="icon-"] {
+    line-height: inherit;
+    vertical-align: baseline;
+    margin-right:0.5em;
+}
+
+/* ============================= Ribbon Menu =================================*/
+
+.ribbon .ribbonContent ul {
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    bottom: 0px;
+    text-align: center;
+    list-style: none;
+    margin:0px;
+    padding:0px;
+}
+
+.ribbon .ribbonContent ul li {
+    display: inline-block;
+    margin: 0;
+    padding:0;
+    line-height:inherit;
+    height:inherit;
+}
+
+.ribbon .ribbonContent ul li a {
+    display: inline-block;
+    cursor: pointer;
+    outline: none;
+    margin:0;
+    padding: 0em 1.5em;
+    height:inherit;
+    line-height:inherit;
+    text-align: center;
+    vertical-align: middle;
+    text-decoration: none;
+    text-shadow: 1px 1px 1px rgba(0,0,0,.6);
+}
+
+.ribbon .ribbonContent ul [class^="icon-"] {
+    font-size:inherit;
+    height: inherit;
+    line-height: inherit;
+    vertical-align: middle;
+    opacity: 0.6;
+}
+
+.ribbon .ribbonContent ul [class^="icon-"].pull-left{
+    margin-right: 0.5em;
+}
+
+.ribbon .ribbonContent ul [class^="icon-"].pull-right{
+    margin-left: 0.5em;
+}
+
+.ribbon .ribbonContent ul li:hover [class^="icon-"] {
+    opacity: 1;
+}
+
+.ribbon .ribbonContent ul li:active a{
+    position: relative;
+    top: 1px;
+}

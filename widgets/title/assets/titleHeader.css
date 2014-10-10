@@ -1,0 +1,38 @@
+.titleHeader {
+    padding: 0.3em 0em;
+    margin: 0px;
+    outline: none;
+    text-decoration: none;
+    font-weight:normal;
+    line-height: 1.3em;
+    vertical-align: middle;
+    text-shadow: 1px 1px 5px rgba(0, 0, 0, .3);
+}
+
+.titleHeaderLeft {
+    text-align: left;
+}
+
+.titleHeaderRight{
+    text-align: right;
+}
+
+.titleHeaderCenter{
+    text-align: center;
+}
+
+.titleHeader [class^="icon-"] {
+    font-size: inherit;
+    line-height: 1.4em;
+    vertical-align: middle;
+}
+
+.titleHeader [class^="icon-"].pull-left{
+    margin-right: 0.5em;
+}
+
+.titleHeader [class^="icon-"].pull-right{
+    margin-left: 0.5em;
+}
+
+

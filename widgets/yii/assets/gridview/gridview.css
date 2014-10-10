@@ -1,0 +1,154 @@
+.grid-view-loading
+{
+	background:url(loading.gif) no-repeat;
+}
+
+.grid-view
+{
+	padding: 15px 0;
+}
+
+.grid-view table.items
+{
+	background: white;
+        border-collapse: collapse;
+        border-spacing: 0px;
+	width: 100%;
+	border: 1px gray solid;
+}
+
+.grid-view table.items th, .grid-view table.items td
+{
+	font-size: 1em;
+	border-top: 1px solid gray;
+	border-bottom: 1px solid gray;
+	border-left: 1px dotted #ddd;
+	border-right: 1px dotted #ddd;
+	padding: 0.5em 1em;
+}
+.grid-view table.items th
+{
+    font-size: 1em;
+    font-weight:normal;
+}
+
+.grid-view table.items td
+{
+    height:1.8em;
+    vertical-align: middle;
+}
+
+
+.grid-view table.items th
+{
+	color: white;
+	text-align: center;
+}
+
+.grid-view table.items th a
+{
+	color: #EEE;
+        font-size: 1.0em;
+        font-weight: normal;
+	text-decoration: none;
+}
+
+.grid-view table.items th a:hover
+{
+	color: #FFF;
+}
+
+.grid-view table.items th a.asc:after
+{
+	content:"\f107";
+        font-family: FontAwesome;
+        font-weight: normal;
+        font-style: normal;
+        text-decoration: inherit;
+        -webkit-font-smoothing: antialiased;
+        margin-left: .5em; 
+        *margin-left: .5em; 
+        margin-right: .5em; 
+        *margin-right: .5em; 
+}
+
+.grid-view table.items th a.desc:after
+{
+	content:"\f106";
+        font-family: FontAwesome;
+        font-weight: normal;
+        font-style: normal;
+        text-decoration: inherit;
+        -webkit-font-smoothing: antialiased;
+        margin-left: .5em; 
+        *margin-left: .5em; 
+        margin-right: .5em; 
+        *margin-right: .5em; 
+}
+
+.grid-view table.items tr.even
+{
+	background: white;
+}
+
+.grid-view table.items tr.odd
+{
+	background: #eee;
+}
+
+.grid-view table.items tr.selected
+{
+	background: #ffd;
+}
+
+.grid-view .button-column
+{
+	width: 65px;
+}
+
+.grid-view .checkbox-column
+{
+	width: 15px;
+}
+
+.grid-view .summary
+{
+	margin: 0 0 5px 0;
+	text-align: right;
+}
+
+.grid-view .pager
+{
+	margin: 5px 0 0 0;
+	text-align: right;
+}
+
+.grid-view .empty
+{
+	font-style: italic;
+}
+
+.grid-view .filters input,
+.grid-view .filters select
+{
+     width: 95%;
+     border: 1px solid #ccc;
+        padding: 0.3em;
+        -webkit-border-radius: .35em; 
+        -moz-border-radius: .35em;
+        border-radius: .35em;
+}
+
+.grid-view .custView, .grid-view .custUpdate, .grid-view .custDelete {
+    display: inline-block;
+    font-size: 12px;
+    text-decoration: none;
+    color: #777;
+    text-align:center;
+    padding: 0.1ex 0.5ex;
+    margin-right: 0.75ex;
+    border: 1px solid gray;
+    -webkit-border-radius: .35em; 
+    -moz-border-radius: .35em;
+    border-radius: .35em;
+}

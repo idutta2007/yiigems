@@ -1,0 +1,47 @@
+.siteFooter_basic .links {
+    text-align: center;
+    padding: 0.5em 1em;
+}
+
+.siteFooter_basic .copyright {
+    text-align:center;
+    padding: 0em 1em 1em 1em;
+}
+
+.siteFooter_basic .links a {
+    font-size: 12px;
+    padding: 0.4ex 0ex 0.6ex 0ex;
+    color:white;
+    margin-left: 20px;
+    text-decoration:none;
+    border-bottom: 2px solid transparent;
+    text-shadow: none;
+    transition: all 0.3s linear;
+}
+
+.siteFooter_basic .links a:hover {
+    text-decoration:none;
+    text-shadow: 0px 0px 0px 2px rgba(0,0,0,.3);
+    border-bottom: 2px solid red;
+}
+.siteFooter_basic .copyright span{
+    color:yellow;
+}
+
+.siteFooter_basic .company a{
+    display:inline-block;
+    text-align:center;
+    text-decoration:none;
+    margin: 0ex 1ex;
+    padding: 0.4ex 0ex 0.6ex 0ex;
+    color:white;
+    border-bottom: 2px solid transparent;
+    text-shadow: none;
+    transition: all 0.3s linear;
+}
+
+.siteFooter_basic .company a:hover {
+    text-decoration:none;
+    text-shadow: 0px 0px 0px 2px rgba(0,0,0,.3);
+    border-bottom: 2px solid red;
+}

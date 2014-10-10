@@ -1,0 +1,53 @@
+.buttonBar ul {
+    height: 2.5em;
+    list-style: none;
+    margin:0px 0px 1em 0em;
+    padding:0px;
+}
+
+.buttonBar li {
+    display: inline-block;
+    vertical-align: middle;
+    height: 2.5em;
+    margin: 0;
+    padding:0;
+    border-right-style:solid;
+    border-right-width:0.1em;
+}
+
+.buttonBar li a {
+    font-size:inherit;
+    display: inline-block;
+    cursor: pointer;
+    outline: none;
+    margin:0;
+    padding: 0.5em 2em;
+    line-height:1.5em;
+    text-align: center;
+    vertical-align: middle;
+    text-decoration: none;
+    text-shadow: 1px 1px 1px rgba(0,0,0,.6);
+}
+
+.buttonBar li a.selected{
+    cursor:default;
+}
+
+.buttonBar [class^="icon-"] {
+    font-size:inherit;
+    line-height: 1.51em;
+    vertical-align: middle;
+    opacity: 0.6;
+}
+
+.buttonBar [class^="icon-"].pull-left{
+    margin-right: 0.5em;
+}
+
+.buttonBar [class^="icon-"].pull-right{
+    margin-left: 0.5em;
+}
+
+.buttonBar li:hover [class^="icon-"] {
+    opacity: 1;
+}

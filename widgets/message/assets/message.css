@@ -1,0 +1,40 @@
+
+.message {
+    position:relative;
+    padding: 0.5em 1.5em 1em 1.5em;
+    border-width: 1px;
+    border-style: solid;
+    margin-bottom: 1ex;
+}
+
+.message.nocontent {
+    padding: 0.5em 1.5em 0.5em 1.5em;
+}
+
+.message .message_header{
+    font-size: 20px;
+}
+
+.message .message_header [class^="icon-"]{
+    margin-right: 0.3em;
+}
+
+.message .close_btn {
+    position:absolute;
+    height: 1.25ex;
+    width: 1.25ex;
+    line-height: 1.25ex;
+    font-size: 14px;
+    font-weight:bold;
+    vertical-align: middle;
+    text-align: center;
+    
+    top: 0.75em;
+    right: 0.75em;
+    cursor: pointer;
+    opacity: 0.6;
+}
+
+.message .close_btn:hover {
+    opacity: 1;
+}

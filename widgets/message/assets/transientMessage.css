@@ -1,0 +1,13 @@
+
+.trans-msg {
+    z-index:9999;
+    opacity: 0.9;
+}
+
+.trans-msg .msg-container {
+    font-size: 20px;
+    font-weight: bold;
+    padding: 20px;
+    text-align: center;
+    z-index:9999;
+}

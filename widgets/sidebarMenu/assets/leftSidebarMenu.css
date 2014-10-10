@@ -1,0 +1,50 @@
+
+.leftSidebarMenu ul {
+}
+
+.leftSidebarMenu ul li {
+    height: 2.5em;
+    display: block;
+    list-style: none;
+    text-align: left;
+    border-top-style: solid;
+    border-top-width: 0.1em;
+    overflow: hidden;
+}
+
+.leftSidebarMenu ul li a {
+    display: block;
+    height:1.5em;
+    line-height: 1.5em;
+    cursor: pointer;
+    border-top-style: solid;
+    border-top-width: 0em;
+    padding: 0.5em 1em;
+    margin:0;
+    text-decoration: none;
+    vertical-align: middle;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.4);
+}
+
+.leftSidebarMenu ul li:last-child {
+    border-bottom-style: solid;
+    border-bottom-width: 0.1em;
+}
+
+.leftSidebarMenu ul li a [class^="icon-"] {
+    font-size: inherit;
+    display: inline-block;
+    height: 2.5em;
+    line-height: 1.5em;
+    padding:0;
+    vertical-align: middle;
+    opacity: 0.6;
+}
+
+.leftSidebarMenu ul li a:hover [class^="icon-"] {
+    opacity: 1;
+}
+
+.leftSidebarMenu ul li a [class^="icon-"].pull-left {
+    margin-right: 1em;
+}

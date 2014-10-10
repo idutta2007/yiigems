@@ -1,0 +1,94 @@
+
+div.igroup {
+    display:table;
+    width: 100%;
+    box-sizing: border-box;
+    border-collapse: separate;
+    border: 0;
+}
+
+/* ------------------- prefix --------------------*/
+div.igroup .prefix {
+    display:table-cell;
+    width: 1%;
+    height:100%;
+    vertical-align: middle;
+    white-space: nowrap;
+    font-size: inherit;
+    box-sizing: border-box;
+    padding: 0ex 1.25ex;
+    border-width: 1px;
+    border-style: solid;
+    border-right:none;
+}
+
+div.igroup .prefix.button {
+    position: relative;
+    top: 0px;
+}
+
+div.igroup .prefix.group-icon {
+    border-color: #aaa;
+}
+
+div.igroup .prefix.clabel {
+    text-align: left;
+}
+
+/* ------------------- control --------------------*/
+div.igroup .control {
+    display: table-cell;
+    width:100%;
+    float: left;
+    font-size: inherit;
+    box-sizing: border-box;
+    border: 1px solid #aaa;
+}
+
+div.igroup input.control, div.igroup select.control {
+    padding: 1ex;
+}
+
+div.igroup .control .chosen-single {
+    padding: 0.5ex;
+    border: none;
+}
+
+div.igroup .chosen-container-single .chosen-single div b{
+    background-position-y: 0.42em;
+}
+
+/* ---------------------------- suffix --------------------------*/
+div.igroup .suffix {
+    display:table-cell;
+    width: 1%;
+    vertical-align: middle;
+    white-space: nowrap;
+    font-size: inherit;
+    box-sizing: border-box;
+    padding: 0ex 1.25ex;
+    border-width: 1px;
+    border-style: solid;
+    border-left:none;
+}
+
+div.igroup .suffix.button {
+    position: relative;
+    top: 0px;
+}
+
+div.igroup .suffix.group-icon {
+    border-color: #aaa;
+}
+
+div.igroup .suffix.chosen-container.chosen-container-single {
+    padding: 0 0 0 0;
+    border-color: #aaa;
+}
+
+div.igroup .suffix.chosen-container.chosen-container-single .chosen-single{
+    border-radius: inherit;
+    border: none;
+    line-height:29px;
+    height:29px;
+}

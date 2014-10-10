@@ -1,0 +1,417 @@
+.background_lemonChiffon3,
+.hover_background_lemonChiffon3:hover,
+.active_background_lemonChiffon3:active:hover {
+    background: #ffe70b;
+    background-image: -moz-linear-gradient(top,  rgb(255, 237, 77) 0%, rgb(255, 231, 11) 100%);
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgb(255, 237, 77)), color-stop(100%, rgb(255, 231, 11)));
+    background-image: -webkit-linear-gradient(top,  rgb(255, 237, 77) 0%, rgb(255, 231, 11) 100%);
+    background-image: -o-linear-gradient(top,  rgb(255, 237, 77) 0%, rgb(255, 231, 11) 100%);
+    background-image: -ms-linear-gradient(top, rgb(255, 237, 77) 0%, rgb(255, 231, 11) 100%);
+    background-image: linear-gradient(to bottom,  rgb(255, 237, 77) 0%, rgb(255, 231, 11) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffed4d', endColorstr='#ffe70b',GradientType=0 );
+}
+
+.background_lemonChiffon3h,
+.hover_background_lemonChiffon3h:hover,
+.active_background_lemonChiffon3h:active:hover {
+    background: #ffe70b;
+    background-image: -moz-linear-gradient(top,  rgb(255, 244, 144) 0%, rgb(255, 236, 64) 100%);
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgb(255, 244, 144)), color-stop(100%, rgb(255, 236, 64)));
+    background-image: -webkit-linear-gradient(top,  rgb(255, 244, 144) 0%, rgb(255, 236, 64) 100%);
+    background-image: -o-linear-gradient(top,  rgb(255, 244, 144) 0%, rgb(255, 236, 64) 100%);
+    background-image: -ms-linear-gradient(top, rgb(255, 244, 144) 0%, rgb(255, 236, 64) 100%);
+    background-image: linear-gradient(to bottom,  rgb(255, 244, 144) 0%, rgb(255, 236, 64) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fff490', endColorstr='#ffec40',GradientType=0 );
+}
+
+.background_lemonChiffon3a,
+.hover_background_lemonChiffon3a:hover,
+.active_background_lemonChiffon3a:active:hover {
+    background: #ffe70b;
+    background-image: -moz-linear-gradient(top,  rgb(255, 236, 64) 0%, rgb(255, 244, 144) 100%);
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgb(255, 236, 64)), color-stop(100%, rgb(255, 244, 144)));
+    background-image: -webkit-linear-gradient(top,  rgb(255, 236, 64) 0%, rgb(255, 244, 144) 100%);
+    background-image: -o-linear-gradient(top,  rgb(255, 236, 64) 0%, rgb(255, 244, 144) 100%);
+    background-image: -ms-linear-gradient(top, rgb(255, 236, 64) 0%, rgb(255, 244, 144) 100%);
+    background-image: linear-gradient(to bottom,  rgb(255, 236, 64) 0%, rgb(255, 244, 144) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffec40', endColorstr='#fff490',GradientType=0 );
+}
+
+.background_lemonChiffon3s,
+.hover_background_lemonChiffon3s:hover,
+.active_background_lemonChiffon3s:active:hover {
+    background: #ffe70b;
+    background-image: -moz-linear-gradient(top,  rgb(255, 254, 244) 0%, rgb(255, 244, 144) 100%);
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgb(255, 254, 244)), color-stop(100%, rgb(255, 244, 144)));
+    background-image: -webkit-linear-gradient(top,  rgb(255, 254, 244) 0%, rgb(255, 244, 144) 100%);
+    background-image: -o-linear-gradient(top,  rgb(255, 254, 244) 0%, rgb(255, 244, 144) 100%);
+    background-image: -ms-linear-gradient(top, rgb(255, 254, 244) 0%, rgb(255, 244, 144) 100%);
+    background-image: linear-gradient(to bottom,  rgb(255, 254, 244) 0%, rgb(255, 244, 144) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fffef4', endColorstr='#fff490',GradientType=0 );
+}
+
+.background_color_lemonChiffon3,
+.hover_background_color_lemonChiffon3:hover,
+.active_background_color_lemonChiffon3:active:hover {
+    background-color:#ffe70b;
+}
+
+.background_first_color_lemonChiffon3,
+.hover_background_first_color_lemonChiffon3:hover,
+.active_background_first_color_lemonChiffon3:active:hover {
+    background-color:#ffed4d;
+}
+
+.background_last_color_lemonChiffon3,
+.hover_background_last_color_lemonChiffon3:hover,
+.active_background_color_last_lemonChiffon3:active:hover {
+   background-color:#ffe70b;
+}
+
+/* ------------------------------ color settings -------------------------------*/
+.color_lemonChiffon3,
+.hover_color_lemonChiffon3:hover,
+.active_color_lemonChiffon3:active:hover {
+    color: #282828;
+}
+
+.color_lemonChiffon3h,
+.hover_color_lemonChiffon3h:hover,
+.active_color_lemonChiffon3h:active:hover {
+    color: #282828;
+}
+
+.color_lemonChiffon3a,
+.hover_color_lemonChiffon3a:hover,
+.active_color_lemonChiffon3a:active:hover {
+    color: #ff0;
+}
+
+.color_lemonChiffon3s,
+.hover_color_lemonChiffon3s:hover,
+.active_color_lemonChiffon3s:active:hover {
+    color: #dd0;
+}
+
+/* -------------------------- border color settings -----------------------------*/
+.border_lemonChiffon3,
+.hover_border_lemonChiffon3:hover,
+.active_border_lemonChiffon3:active:hover {
+    border-color: #ffe70b #ffe70b #ffe70b #ffe70b;
+}
+
+.border_lemonChiffon3h,
+.hover_border_lemonChiffon3h:hover,
+.active_border_lemonChiffon3h:active:hover {
+    border-color: #efd700 #efd700 #efd700 #efd700;
+}
+
+.border_lemonChiffon3a,
+.hover_border_lemonChiffon3a:hover,
+.active_border_lemonChiffon3a:active:hover {
+    border-color: #d5bf00 #d5bf00 #d5bf00 #d5bf00;
+}
+
+.border_lemonChiffon3s,
+.hover_border_lemonChiffon3s:hover,
+.active_border_lemonChiffon3s:active:hover {
+    border-color: #fff490 #fff490 #fff490 #fff490;
+}
+
+
+/* -------------------------- shadow expand settings --------------------------------*/
+.shadow_expand_lemonChiffon3,
+.hover_shadow_expand_lemonChiffon3:hover,
+.active_shadow_expand_lemonChiffon3:active:hover {
+    -webkit-box-shadow: 0em 0em 1em 0.25em rgba(255, 231, 11, .39);
+    -moz-box-shadow: 0em 0em 1em 0.25em rgba(255, 231, 11, .39);
+    box-shadow: 0em 0em 1em 0.25em rgba(255, 231, 11, .39);
+}
+
+.shadow_expand_lemonChiffon3h,
+.hover_shadow_expand_lemonChiffon3h:hover,
+.active_shadow_expand_lemonChiffon3h:active:hover {
+    -webkit-box-shadow: 0em 0em 1em 0.25em rgba(255, 236, 64, .50);
+    -moz-box-shadow: 0em 0em 1em 0.25em rgba(255, 236, 64, .50);
+    box-shadow: 0em 0em 1em 0.25em rgba(255, 236, 64, .50);
+}
+
+.shadow_expand_lemonChiffon3a,
+.hover_shadow_expand_lemonChiffon3a:hover,
+.active_shadow_expand_lemonChiffon3a:active:hover {
+    -webkit-box-shadow: 0em 0em 1em 0.25em rgba(255, 244, 144, .63);
+    -moz-box-shadow: 0em 0em 1em 0.25em rgba(255, 244, 144, .63);
+    box-shadow: 0em 0em 1em 0.25em rgba(255, 244, 144, .63);
+}
+
+.shadow_expand_lemonChiffon3s,
+.hover_shadow_expand_lemonChiffon3s:hover,
+.active_shadow_expand_lemonChiffon3s:active:hover {
+    -webkit-box-shadow: 0em 0em 1em 0.25em rgba(255, 244, 144, .78);
+    -moz-box-shadow: 0em 0em 1em 0.25em rgba(255, 244, 144, .78);
+    box-shadow: 0em 0em 1em 0.25em rgba(255, 244, 144, .78);
+}
+
+/* -------------------------- shadow left settings --------------------------------*/
+.shadow_left_lemonChiffon3,
+.hover_shadow_left_lemonChiffon3:hover,
+.active_shadow_left_lemonChiffon3:active:hover {
+    -webkit-box-shadow: -0.5em -0.5em 1em rgba(255, 231, 11, .39);
+    -moz-box-shadow: -0.5em -0.5em 1em rgba(255, 231, 11, .39);
+    box-shadow: -0.5em -0.5em 1em rgba(255, 231, 11, .39);
+}
+
+.shadow_left_lemonChiffon3h,
+.hover_shadow_left_lemonChiffon3h:hover,
+.active_shadow_left_lemonChiffon3h:active:hover {
+    -webkit-box-shadow: -0.5em -0.5em 1em rgba(255, 236, 64, .50);
+    -moz-box-shadow: -0.5em -0.5em 1em rgba(255, 236, 64, .50);
+    box-shadow: -0.5em -0.5em 1em rgba(255, 236, 64, .50);
+}
+
+.shadow_left_lemonChiffon3a,
+.hover_shadow_left_lemonChiffon3a:hover,
+.active_shadow_left_lemonChiffon3a:active:hover {
+    -webkit-box-shadow: -0.5em -0.5em 1em rgba(255, 244, 144, .63);
+    -moz-box-shadow: -0.5em -0.5em 1em rgba(255, 244, 144, .63);
+    box-shadow: -0.5em -0.5em 1em rgba(255, 244, 144, .63);
+}
+
+.shadow_left_lemonChiffon3s,
+.hover_shadow_left_lemonChiffon3s:hover,
+.active_shadow_left_lemonChiffon3s:active:hover {
+    -webkit-box-shadow: -0.5em -0.5em 1em rgba(255, 244, 144, .78);
+    -moz-box-shadow: -0.5em -0.5em 1em rgba(255, 244, 144, .78);
+    box-shadow: -0.5em -0.5em 1em rgba(255, 244, 144, .78);
+}
+
+/* -------------------------- shadow right settings --------------------------------*/
+.shadow_right_lemonChiffon3,
+.hover_shadow_right_lemonChiffon3:hover,
+.active_shadow_right_lemonChiffon3:active:hover {
+    -webkit-box-shadow: 0.5em 0em 1em rgba(255, 231, 11, .39);
+    -moz-box-shadow: 0.5em 0em 1em rgba(255, 231, 11, .39);
+    box-shadow: 0.5em 0em 1em rgba(255, 231, 11, .39);
+}
+
+.shadow_right_lemonChiffon3h,
+.hover_shadow_right_lemonChiffon3h:hover,
+.active_shadow_right_lemonChiffon3h:active:hover {
+    -webkit-box-shadow: 0.5em 0em 1em rgba(255, 236, 64, .50);
+    -moz-box-shadow: 0.5em 0em 1em rgba(255, 236, 64, .50);
+    box-shadow: 0.5em 0em 1em rgba(255, 236, 64, .50);
+}
+
+.shadow_right_lemonChiffon3a,
+.hover_shadow_right_lemonChiffon3a:hover,
+.active_shadow_right_lemonChiffon3a:active:hover {
+    -webkit-box-shadow: 0.5em 0em 1em rgba(255, 244, 144, .63);
+    -moz-box-shadow: 0.5em 0em 1em rgba(255, 244, 144, .63);
+    box-shadow: 0.5em 0em 1em rgba(255, 244, 144, .63);
+}
+
+.shadow_right_lemonChiffon3s,
+.hover_shadow_right_lemonChiffon3s:hover,
+.active_shadow_right_lemonChiffon3s:active:hover {
+    -webkit-box-shadow: 0.5em 0em 1em rgba(255, 244, 144, .78);
+    -moz-box-shadow: 0.5em 0em 1em rgba(255, 244, 144, .78);
+    box-shadow: 0.5em 0em 1em rgba(255, 244, 144, .78);
+}
+
+/* -------------------------- shadow top settings --------------------------------*/
+.shadow_top_lemonChiffon3,
+.hover_shadow_top_lemonChiffon3:hover,
+.active_shadow_top_lemonChiffon3:active:hover {
+    -webkit-box-shadow: 0em -0.5em 1em rgba(255, 231, 11, .39);
+    -moz-box-shadow: 0em -0.5em 1em rgba(255, 231, 11, .39);
+    box-shadow: 0em -0.5em 1em rgba(255, 231, 11, .39);
+}
+
+.shadow_top_lemonChiffon3h,
+.hover_shadow_top_lemonChiffon3h:hover,
+.active_shadow_top_lemonChiffon3h:active:hover {
+    -webkit-box-shadow: 0em -0.5em 1em rgba(255, 236, 64, .50);
+    -moz-box-shadow: 0em -0.5em 1em rgba(255, 236, 64, .50);
+    box-shadow: 0em -0.5em 1em rgba(255, 236, 64, .50);
+}
+
+.shadow_top_lemonChiffon3a,
+.hover_shadow_top_lemonChiffon3a:hover,
+.active_shadow_top_lemonChiffon3a:active:hover {
+    -webkit-box-shadow: 0em -0.5em 1em rgba(255, 244, 144, .63);
+    -moz-box-shadow: 0em -0.5em 1em rgba(255, 244, 144, .63);
+    box-shadow: 0em -0.5em 1em rgba(255, 244, 144, .63);
+}
+
+.shadow_top_lemonChiffon3s,
+.hover_shadow_top_lemonChiffon3s:hover,
+.active_shadow_top_lemonChiffon3s:active:hover {
+    -webkit-box-shadow: 0em -0.5em 1em rgba(255, 244, 144, .78);
+    -moz-box-shadow: 0em -0.5em 1em rgba(255, 244, 144, .78);
+    box-shadow: 0em -0.5em 1em rgba(255, 244, 144, .78);
+}
+
+/* -------------------------- shadow bottom settings --------------------------------*/
+.shadow_bottom_lemonChiffon3,
+.hover_shadow_bottom_lemonChiffon3:hover,
+.active_shadow_bottom_lemonChiffon3:active:hover {
+    -webkit-box-shadow: 0em 0.5em 1em rgba(255, 231, 11, .39);
+    -moz-box-shadow: 0em 0.5em 1em rgba(255, 231, 11, .39);
+    box-shadow: 0em 0.5em 1em rgba(255, 231, 11, .39);
+}
+
+.shadow_bottom_lemonChiffon3h,
+.hover_shadow_bottom_lemonChiffon3h:hover,
+.active_shadow_bottom_lemonChiffon3h:active:hover {
+    -webkit-box-shadow: 0em 0.5em 1em rgba(255, 236, 64, .50);
+    -moz-box-shadow: 0em 0.5em 1em rgba(255, 236, 64, .50);
+    box-shadow: 0em 0.5em 1em rgba(255, 236, 64, .50);
+}
+
+.shadow_bottom_lemonChiffon3a,
+.hover_shadow_bottom_lemonChiffon3a:hover,
+.active_shadow_bottom_lemonChiffon3a:active:hover {
+    -webkit-box-shadow: 0em 0.5em 1em rgba(255, 244, 144, .63);
+    -moz-box-shadow: 0em 0.5em 1em rgba(255, 244, 144, .63);
+    box-shadow: 0em 0.5em 1em rgba(255, 244, 144, .63);
+}
+
+.shadow_bottom_lemonChiffon3s,
+.hover_shadow_bottom_lemonChiffon3s:hover,
+.active_shadow_bottom_lemonChiffon3s:active:hover {
+    -webkit-box-shadow: 0em 0.5em 1em rgba(255, 244, 144, .78);
+    -moz-box-shadow: 0em 0.5em 1em rgba(255, 244, 144, .78);
+    box-shadow: 0em 0.5em 1em rgba(255, 244, 144, .78);
+}
+
+/* -------------------------- shadow top_left settings --------------------------------*/
+.shadow_top_left_lemonChiffon3,
+.hover_shadow_top_left_lemonChiffon3:hover,
+.active_shadow_top_left_lemonChiffon3:active:hover {
+    -webkit-box-shadow: -0.5em -0.5em 1em rgba(255, 231, 11, .39);
+    -moz-box-shadow: -0.5em -0.5em 1em rgba(255, 231, 11, .39);
+    box-shadow: -0.5em -0.5em 1em rgba(255, 231, 11, .39);
+}
+
+.shadow_top_left_lemonChiffon3h,
+.hover_shadow_top_left_lemonChiffon3h:hover,
+.active_shadow_top_left_lemonChiffon3h:active:hover {
+    -webkit-box-shadow: -0.5em -0.5em 1em rgba(255, 236, 64, .50);
+    -moz-box-shadow: -0.5em -0.5em 1em rgba(255, 236, 64, .50);
+    box-shadow: -0.5em -0.5em 1em rgba(255, 236, 64, .50);
+}
+
+.shadow_top_left_lemonChiffon3a,
+.hover_shadow_top_left_lemonChiffon3a:hover,
+.active_shadow_top_left_lemonChiffon3a:active:hover {
+    -webkit-box-shadow: -0.5em -0.5em 1em rgba(255, 244, 144, .63);
+    -moz-box-shadow: -0.5em -0.5em 1em rgba(255, 244, 144, .63);
+    box-shadow: -0.5em -0.5em 1em rgba(255, 244, 144, .63);
+}
+
+.shadow_top_left_lemonChiffon3s,
+.hover_shadow_top_left_lemonChiffon3s:hover,
+.active_shadow_top_left_lemonChiffon3s:active:hover {
+    -webkit-box-shadow: -0.5em -0.5em 1em rgba(255, 244, 144, .78);
+    -moz-box-shadow: -0.5em -0.5em 1em rgba(255, 244, 144, .78);
+    box-shadow: -0.5em -0.5em 1em rgba(255, 244, 144, .78);
+}
+
+/* -------------------------- shadow top_right settings --------------------------------*/
+.shadow_top_right_lemonChiffon3,
+.hover_shadow_top_right_lemonChiffon3:hover,
+.active_shadow_top_right_lemonChiffon3:active:hover {
+    -webkit-box-shadow: 0.5em -0.5em 1em rgba(255, 231, 11, .39);
+    -moz-box-shadow: 0.5em -0.5em 1em rgba(255, 231, 11, .39);
+    box-shadow: 0.5em -0.5em 1em rgba(255, 231, 11, .39);
+}
+
+.shadow_top_right_lemonChiffon3h,
+.hover_shadow_top_right_lemonChiffon3h:hover,
+.active_shadow_top_right_lemonChiffon3h:active:hover {
+    -webkit-box-shadow: 0.5em -0.5em 1em rgba(255, 236, 64, .50);
+    -moz-box-shadow: 0.5em -0.5em 1em rgba(255, 236, 64, .50);
+    box-shadow: 0.5em -0.5em 1em rgba(255, 236, 64, .50);
+}
+
+.shadow_top_right_lemonChiffon3a,
+.hover_shadow_top_right_lemonChiffon3a:hover,
+.active_shadow_top_right_lemonChiffon3a:active:hover {
+    -webkit-box-shadow: 0.5em -0.5em 1em rgba(255, 244, 144, .63);
+    -moz-box-shadow: 0.5em -0.5em 1em rgba(255, 244, 144, .63);
+    box-shadow: 0.5em -0.5em 1em rgba(255, 244, 144, .63);
+}
+
+.shadow_top_right_lemonChiffon3s,
+.hover_shadow_top_right_lemonChiffon3s:hover,
+.active_shadow_top_right_lemonChiffon3s:active:hover {
+    -webkit-box-shadow: 0.5em -0.5em 1em rgba(255, 244, 144, .78);
+    -moz-box-shadow: 0.5em -0.5em 1em rgba(255, 244, 144, .78);
+    box-shadow: 0.5em -0.5em 1em rgba(255, 244, 144, .78);
+}
+
+/* -------------------------- shadow bottom_left settings --------------------------------*/
+.shadow_bottom_left_lemonChiffon3,
+.hover_shadow_bottom_left_lemonChiffon3:hover,
+.active_shadow_bottom_left_lemonChiffon3:active:hover {
+    -webkit-box-shadow: -0.5em 0.5em 1em rgba(255, 231, 11, .39);
+    -moz-box-shadow: -0.5em 0.5em 1em rgba(255, 231, 11, .39);
+    box-shadow: -0.5em 0.5em 1em rgba(255, 231, 11, .39);
+}
+
+.shadow_bottom_left_lemonChiffon3h,
+.hover_shadow_bottom_left_lemonChiffon3h:hover,
+.active_shadow_bottom_left_lemonChiffon3h:active:hover {
+    -webkit-box-shadow: -0.5em 0.5em 1em rgba(255, 236, 64, .50);
+    -moz-box-shadow: -0.5em 0.5em 1em rgba(255, 236, 64, .50);
+    box-shadow: -0.5em 0.5em 1em rgba(255, 236, 64, .50);
+}
+
+.shadow_bottom_left_lemonChiffon3a,
+.hover_shadow_bottom_left_lemonChiffon3a:hover,
+.active_shadow_bottom_left_lemonChiffon3a:active:hover {
+    -webkit-box-shadow: -0.5em 0.5em 1em rgba(255, 244, 144, .63);
+    -moz-box-shadow: -0.5em 0.5em 1em rgba(255, 244, 144, .63);
+    box-shadow: -0.5em 0.5em 1em rgba(255, 244, 144, .63);
+}
+
+.shadow_bottom_left_lemonChiffon3s,
+.hover_shadow_bottom_left_lemonChiffon3s:hover,
+.active_shadow_bottom_left_lemonChiffon3s:active:hover {
+    -webkit-box-shadow: -0.5em 0.5em 1em rgba(255, 244, 144, .78);
+    -moz-box-shadow: -0.5em 0.5em 1em rgba(255, 244, 144, .78);
+    box-shadow: -0.5em 0.5em 1em rgba(255, 244, 144, .78);
+}
+
+/* -------------------------- shadow bottom_right settings --------------------------------*/
+.shadow_bottom_right_lemonChiffon3,
+.hover_shadow_bottom_right_lemonChiffon3:hover,
+.active_shadow_bottom_right_lemonChiffon3:active:hover {
+    -webkit-box-shadow: 0.5em 0.5em 1em rgba(255, 231, 11, .39);
+    -moz-box-shadow: 0.5em 0.5em 1em rgba(255, 231, 11, .39);
+    box-shadow: 0.5em 0.5em 1em rgba(255, 231, 11, .39);
+}
+
+.shadow_bottom_right_lemonChiffon3h,
+.hover_shadow_bottom_right_lemonChiffon3h:hover,
+.active_shadow_bottom_right_lemonChiffon3h:active:hover  {
+    -webkit-box-shadow: 0.5em 0.5em 1em rgba(255, 236, 64, .50);
+    -moz-box-shadow: 0.5em 0.5em 1em rgba(255, 236, 64, .50);
+    box-shadow: 0.5em 0.5em 1em rgba(255, 236, 64, .50);
+}
+
+.shadow_bottom_right_lemonChiffon3a,
+ .hover_shadow_bottom_right_lemonChiffon3a:hover,
+ .active_shadow_bottom_right_lemonChiffon3a:active:hover {
+     -webkit-box-shadow: 0.5em 0.5em 1em rgba(255, 244, 144, .63);
+     -moz-box-shadow: 0.5em 0.5em 1em rgba(255, 244, 144, .63);
+     box-shadow: 0.5em 0.5em 1em rgba(255, 244, 144, .63);
+ }
+
+ .shadow_bottom_right_lemonChiffon3s,
+ .hover_shadow_bottom_right_lemonChiffon3s:hover,
+ .active_shadow_bottom_right_lemonChiffon3s:active:hover {
+     -webkit-box-shadow: 0.5em 0.5em 1em rgba(255, 244, 144, .78);
+     -moz-box-shadow: 0.5em 0.5em 1em rgba(255, 244, 144, .78);
+     box-shadow: 0.5em 0.5em 1em rgba(255, 244, 144, .78);
+ }

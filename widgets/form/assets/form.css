@@ -1,0 +1,209 @@
+
+div.form
+{
+    padding: 0.5em 0em;
+}
+
+div.form table.form td
+{
+    width:auto;
+    padding:0em 1em;
+}
+
+div.form table.form td.content
+{
+    width:auto;
+    padding: 0.5em 1em;
+}
+
+div.form table.form td.content:first-child
+{
+    padding: 0.5em 1em 0.5em 0em;
+}
+
+div.form table.form td.content:last-child
+{
+    padding: 0.5em 0em 0.5em 1em;
+}
+
+div.form table.form td.content:first-child:last-child
+{
+    padding: 0.5em 0em 0.5em 0em;
+}
+
+div.form input,
+div.form textarea,
+div.form select
+{
+	padding: 1ex;
+        border: 1px solid #aaa;
+        -webkit-transition: border linear .2s, box-shadow linear .2s;
+        -moz-transition: border linear .2s, box-shadow linear .2s;
+        -o-transition: border linear .2s, box-shadow linear .2s;
+        transition: border linear .2s, box-shadow linear .2s;
+}
+
+div.form input[readonly],
+div.form textarea[readonly] {
+    border-color:gray;
+    background:#ffd;
+}
+
+div.form fieldset
+{
+	border: 1px solid #09f;
+	padding: 10px;
+	margin: 0 0 10px 0;
+        -moz-border-radius:7px;
+}
+
+div.form label
+{
+	font-weight: bold;
+	display: block;
+        color: #555;
+}
+
+div.form .hint
+{
+	margin: 0;
+	padding: 0;
+	color: #999;
+}
+
+div.form .note
+{
+	font-style: italic;
+        color:blue;
+}
+
+div.form span.required
+{
+	color: #c00;
+}
+
+div.form div.error label,
+div.form label.error,
+div.form span.error
+{
+	color: #c00;
+}
+
+div.form div.error input,
+div.form div.error textarea,
+div.form div.error select,
+div.form input.error,
+div.form textarea.error,
+div.form select.error
+{
+	background: #FEE;
+	border-color: #C00;
+}
+
+div.form div.success input,
+div.form div.success textarea,
+div.form div.success select,
+div.form input.success,
+div.form textarea.success,
+div.form select.success
+{
+	background: #E6EFC2;
+	border-color: #C6D880;
+}
+
+
+div.form .errorSummary
+{
+	border: 2px solid #C00;
+	padding: 7px 7px 12px 7px;
+	margin: 0 0 20px 0;
+	background: white;
+	font-size: 0.9em;
+}
+
+div.form .errorMessage
+{
+	color: #c00;
+	font-size: 0.9em;
+}
+
+div.form .errorSummary p
+{
+	margin: 0;
+	padding: 5px;
+        font-weight: bold;
+        color: #777;
+}
+
+div.form .errorSummary ul
+{
+	margin: 0;
+	padding: 0 0 0 20px;
+}
+
+div.form .errorSummary ul li
+{
+    list-style-image: url(bullets/16.gif);
+    vertical-align: middle;
+    line-height: 20px;
+    font-size:0.9em;
+    color: #C00;
+}
+
+div.wide.form label
+{
+	float: left;
+	margin-right: 10px;
+	position: relative;
+	text-align: right;
+}
+
+div.wide.form .row
+{
+	clear: left;
+}
+
+div.wide.form .buttons, div.wide.form .hint, div.wide.form .errorMessage
+{
+	clear: left;
+	padding-left: 120px;
+}
+
+div.form input:focus,
+div.form textarea:focus,
+div.form select:focus
+{
+    outline: none;
+    border: 1px solid rgb(0, 150, 0);
+    -webkit-box-shadow: inset 0em 0em 0.75em 0em rgba(0, 200, 0, .50);
+    -moz-box-shadow: inset 0em 0em 0.75em 0em rgba(0, 200, 0, .50);
+     box-shadow: inset 0em 0em 0.75em 0em rgba(0, 200, 0, .50);
+}
+
+div.form input[readonly]:focus,
+div.form textarea[readonly]:focus,
+div.form select[readonly]:focus
+{
+    border-color:gray;
+    outline: none;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+     box-shadow: none;
+}
+
+
+div.form .chosen-choices
+{
+    border: 1px solid #aaa;
+    -webkit-transition: border linear .2s, box-shadow linear .2s;
+    -moz-transition: border linear .2s, box-shadow linear .2s;
+    -o-transition: border linear .2s, box-shadow linear .2s;
+    transition: border linear .2s, box-shadow linear .2s;
+}
+
+div.form .chosen-container-active .chosen-choices {
+    border: 1px solid rgb(0, 150, 0);
+    -webkit-box-shadow: inset 0em 0em 0.75em 0em rgba(0, 200, 0, .50);
+    -moz-box-shadow: inset 0em 0em 0.75em 0em rgba(0, 200, 0, .50);
+    box-shadow: inset 0em 0em 0.75em 0em rgba(0, 200, 0, .50);
+}

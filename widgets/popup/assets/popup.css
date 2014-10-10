@@ -1,0 +1,130 @@
+.popup {
+    background: white;
+    border: 1px solid gray;
+}
+
+.popup.top:before {
+  content: '';
+  display: inline-block;
+  border-left: 11px solid transparent;
+  border-right: 11px solid transparent;
+  border-top: 11px solid gray;
+  border-bottom: none;
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -11px;
+}
+
+.popup.top:after {
+  content: '';
+  display: inline-block;
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+  border-top: 10px solid white;
+  border-bottom: none;
+  position: absolute;
+  margin-left: -10px;
+  top: 100%;
+  left: 50%;
+}
+
+.popup.bottom:before {
+  content: '';
+  display: inline-block;
+  border-left: 11px solid transparent;
+  border-right: 11px solid transparent;
+  border-top: none;
+  border-bottom: 11px solid gray;
+  position: absolute;
+  top: -11px;
+  left: 50%;
+  margin-left: -11px;
+}
+
+.popup.bottom:after {
+  content: '';
+  display: inline-block;
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+  border-top: none;
+  border-bottom: 10px solid white;
+  position: absolute;
+  top: -10px;
+  left: 50%;
+  margin-left: -10px;
+}
+
+.popup.left:before {
+  content: '';
+  display: inline-block;
+  border-left: 11px solid gray;
+  border-right: none;
+  border-top: 11px solid transparent;
+  border-bottom: 11px solid transparent;
+  position: absolute;
+  top: 50%;
+  margin-top:-11px;
+  right: -11px;
+}
+
+.popup.left:after {
+  content: '';
+  display: inline-block;
+  border-left: 10px solid white;
+  border-right: none;
+  border-top: 10px solid transparent;
+  border-bottom: 10px solid transparent;
+  position: absolute;
+  top: 50%;
+  margin-top: -10px;
+  right: -10px;
+}
+
+.popup.right:before {
+  content: '';
+  display: inline-block;
+  border-left: none;
+  border-right: 11px solid gray;
+  border-top: 11px solid transparent;
+  border-bottom: 11px solid transparent;
+  position: absolute;
+  top: 50%;
+  margin-top:-11px;
+  left: -11px;
+}
+
+.popup.right:after {
+  
+  content: '';
+  display: inline-block;
+  border-left: none;
+  border-right: 10px solid white;
+  border-top: 10px solid transparent;
+  border-bottom: 10px solid transparent;
+  position: absolute;
+  top: 50%;
+  margin-top: -10px;
+  left: -10px;
+}
+
+.popup h2.header {
+    padding: 2ex;
+    background-color: #f0f0f0;
+    border-bottom: 1px solid #dedede;
+}
+
+.popup span.closeIcon {
+    cursor:pointer;
+    display:inline-block;
+    float:right;
+    margin-top:2ex;
+    margin-right:2ex;
+    border-radius: 0.2ex;
+    border: 1px solid transparent;
+}
+
+.popup span.closeIcon:hover {
+    border: 1px solid gray;
+}
+

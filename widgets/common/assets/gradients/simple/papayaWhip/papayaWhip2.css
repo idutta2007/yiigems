@@ -1,0 +1,417 @@
+.background_papayaWhip2,
+.hover_background_papayaWhip2:hover,
+.active_background_papayaWhip2:active:hover {
+    background: #ffb63f;
+    background-image: -moz-linear-gradient(top,  rgb(255, 212, 143) 0%, rgb(255, 182, 63) 100%);
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgb(255, 212, 143)), color-stop(100%, rgb(255, 182, 63)));
+    background-image: -webkit-linear-gradient(top,  rgb(255, 212, 143) 0%, rgb(255, 182, 63) 100%);
+    background-image: -o-linear-gradient(top,  rgb(255, 212, 143) 0%, rgb(255, 182, 63) 100%);
+    background-image: -ms-linear-gradient(top, rgb(255, 212, 143) 0%, rgb(255, 182, 63) 100%);
+    background-image: linear-gradient(to bottom,  rgb(255, 212, 143) 0%, rgb(255, 182, 63) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffd48f', endColorstr='#ffb63f',GradientType=0 );
+}
+
+.background_papayaWhip2h,
+.hover_background_papayaWhip2h:hover,
+.active_background_papayaWhip2h:active:hover {
+    background: #ffb63f;
+    background-image: -moz-linear-gradient(top,  rgb(255, 243, 222) 0%, rgb(255, 206, 127) 100%);
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgb(255, 243, 222)), color-stop(100%, rgb(255, 206, 127)));
+    background-image: -webkit-linear-gradient(top,  rgb(255, 243, 222) 0%, rgb(255, 206, 127) 100%);
+    background-image: -o-linear-gradient(top,  rgb(255, 243, 222) 0%, rgb(255, 206, 127) 100%);
+    background-image: -ms-linear-gradient(top, rgb(255, 243, 222) 0%, rgb(255, 206, 127) 100%);
+    background-image: linear-gradient(to bottom,  rgb(255, 243, 222) 0%, rgb(255, 206, 127) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fff3de', endColorstr='#ffce7f',GradientType=0 );
+}
+
+.background_papayaWhip2a,
+.hover_background_papayaWhip2a:hover,
+.active_background_papayaWhip2a:active:hover {
+    background: #ffb63f;
+    background-image: -moz-linear-gradient(top,  rgb(255, 206, 127) 0%, rgb(255, 243, 222) 100%);
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgb(255, 206, 127)), color-stop(100%, rgb(255, 243, 222)));
+    background-image: -webkit-linear-gradient(top,  rgb(255, 206, 127) 0%, rgb(255, 243, 222) 100%);
+    background-image: -o-linear-gradient(top,  rgb(255, 206, 127) 0%, rgb(255, 243, 222) 100%);
+    background-image: -ms-linear-gradient(top, rgb(255, 206, 127) 0%, rgb(255, 243, 222) 100%);
+    background-image: linear-gradient(to bottom,  rgb(255, 206, 127) 0%, rgb(255, 243, 222) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffce7f', endColorstr='#fff3de',GradientType=0 );
+}
+
+.background_papayaWhip2s,
+.hover_background_papayaWhip2s:hover,
+.active_background_papayaWhip2s:active:hover {
+    background: #ffb63f;
+    background-image: -moz-linear-gradient(top,  rgb(255, 255, 255) 0%, rgb(255, 243, 222) 100%);
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgb(255, 255, 255)), color-stop(100%, rgb(255, 243, 222)));
+    background-image: -webkit-linear-gradient(top,  rgb(255, 255, 255) 0%, rgb(255, 243, 222) 100%);
+    background-image: -o-linear-gradient(top,  rgb(255, 255, 255) 0%, rgb(255, 243, 222) 100%);
+    background-image: -ms-linear-gradient(top, rgb(255, 255, 255) 0%, rgb(255, 243, 222) 100%);
+    background-image: linear-gradient(to bottom,  rgb(255, 255, 255) 0%, rgb(255, 243, 222) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#fff3de',GradientType=0 );
+}
+
+.background_color_papayaWhip2,
+.hover_background_color_papayaWhip2:hover,
+.active_background_color_papayaWhip2:active:hover {
+    background-color:#ffb63f;
+}
+
+.background_first_color_papayaWhip2,
+.hover_background_first_color_papayaWhip2:hover,
+.active_background_first_color_papayaWhip2:active:hover {
+    background-color:#ffd48f;
+}
+
+.background_last_color_papayaWhip2,
+.hover_background_last_color_papayaWhip2:hover,
+.active_background_color_last_papayaWhip2:active:hover {
+   background-color:#ffb63f;
+}
+
+/* ------------------------------ color settings -------------------------------*/
+.color_papayaWhip2,
+.hover_color_papayaWhip2:hover,
+.active_color_papayaWhip2:active:hover {
+    color: #282828;
+}
+
+.color_papayaWhip2h,
+.hover_color_papayaWhip2h:hover,
+.active_color_papayaWhip2h:active:hover {
+    color: #282828;
+}
+
+.color_papayaWhip2a,
+.hover_color_papayaWhip2a:hover,
+.active_color_papayaWhip2a:active:hover {
+    color: #ff0;
+}
+
+.color_papayaWhip2s,
+.hover_color_papayaWhip2s:hover,
+.active_color_papayaWhip2s:active:hover {
+    color: #dd0;
+}
+
+/* -------------------------- border color settings -----------------------------*/
+.border_papayaWhip2,
+.hover_border_papayaWhip2:hover,
+.active_border_papayaWhip2:active:hover {
+    border-color: #ffb63f #ffb63f #ffb63f #ffb63f;
+}
+
+.border_papayaWhip2h,
+.hover_border_papayaWhip2h:hover,
+.active_border_papayaWhip2h:active:hover {
+    border-color: #ffaa1f #ffaa1f #ffaa1f #ffaa1f;
+}
+
+.border_papayaWhip2a,
+.hover_border_papayaWhip2a:hover,
+.active_border_papayaWhip2a:active:hover {
+    border-color: #ff9e00 #ff9e00 #ff9e00 #ff9e00;
+}
+
+.border_papayaWhip2s,
+.hover_border_papayaWhip2s:hover,
+.active_border_papayaWhip2s:active:hover {
+    border-color: #fff3de #fff3de #fff3de #fff3de;
+}
+
+
+/* -------------------------- shadow expand settings --------------------------------*/
+.shadow_expand_papayaWhip2,
+.hover_shadow_expand_papayaWhip2:hover,
+.active_shadow_expand_papayaWhip2:active:hover {
+    -webkit-box-shadow: 0em 0em 1em 0.25em rgba(255, 182, 63, .39);
+    -moz-box-shadow: 0em 0em 1em 0.25em rgba(255, 182, 63, .39);
+    box-shadow: 0em 0em 1em 0.25em rgba(255, 182, 63, .39);
+}
+
+.shadow_expand_papayaWhip2h,
+.hover_shadow_expand_papayaWhip2h:hover,
+.active_shadow_expand_papayaWhip2h:active:hover {
+    -webkit-box-shadow: 0em 0em 1em 0.25em rgba(255, 206, 127, .50);
+    -moz-box-shadow: 0em 0em 1em 0.25em rgba(255, 206, 127, .50);
+    box-shadow: 0em 0em 1em 0.25em rgba(255, 206, 127, .50);
+}
+
+.shadow_expand_papayaWhip2a,
+.hover_shadow_expand_papayaWhip2a:hover,
+.active_shadow_expand_papayaWhip2a:active:hover {
+    -webkit-box-shadow: 0em 0em 1em 0.25em rgba(255, 243, 222, .63);
+    -moz-box-shadow: 0em 0em 1em 0.25em rgba(255, 243, 222, .63);
+    box-shadow: 0em 0em 1em 0.25em rgba(255, 243, 222, .63);
+}
+
+.shadow_expand_papayaWhip2s,
+.hover_shadow_expand_papayaWhip2s:hover,
+.active_shadow_expand_papayaWhip2s:active:hover {
+    -webkit-box-shadow: 0em 0em 1em 0.25em rgba(255, 243, 222, .78);
+    -moz-box-shadow: 0em 0em 1em 0.25em rgba(255, 243, 222, .78);
+    box-shadow: 0em 0em 1em 0.25em rgba(255, 243, 222, .78);
+}
+
+/* -------------------------- shadow left settings --------------------------------*/
+.shadow_left_papayaWhip2,
+.hover_shadow_left_papayaWhip2:hover,
+.active_shadow_left_papayaWhip2:active:hover {
+    -webkit-box-shadow: -0.5em -0.5em 1em rgba(255, 182, 63, .39);
+    -moz-box-shadow: -0.5em -0.5em 1em rgba(255, 182, 63, .39);
+    box-shadow: -0.5em -0.5em 1em rgba(255, 182, 63, .39);
+}
+
+.shadow_left_papayaWhip2h,
+.hover_shadow_left_papayaWhip2h:hover,
+.active_shadow_left_papayaWhip2h:active:hover {
+    -webkit-box-shadow: -0.5em -0.5em 1em rgba(255, 206, 127, .50);
+    -moz-box-shadow: -0.5em -0.5em 1em rgba(255, 206, 127, .50);
+    box-shadow: -0.5em -0.5em 1em rgba(255, 206, 127, .50);
+}
+
+.shadow_left_papayaWhip2a,
+.hover_shadow_left_papayaWhip2a:hover,
+.active_shadow_left_papayaWhip2a:active:hover {
+    -webkit-box-shadow: -0.5em -0.5em 1em rgba(255, 243, 222, .63);
+    -moz-box-shadow: -0.5em -0.5em 1em rgba(255, 243, 222, .63);
+    box-shadow: -0.5em -0.5em 1em rgba(255, 243, 222, .63);
+}
+
+.shadow_left_papayaWhip2s,
+.hover_shadow_left_papayaWhip2s:hover,
+.active_shadow_left_papayaWhip2s:active:hover {
+    -webkit-box-shadow: -0.5em -0.5em 1em rgba(255, 243, 222, .78);
+    -moz-box-shadow: -0.5em -0.5em 1em rgba(255, 243, 222, .78);
+    box-shadow: -0.5em -0.5em 1em rgba(255, 243, 222, .78);
+}
+
+/* -------------------------- shadow right settings --------------------------------*/
+.shadow_right_papayaWhip2,
+.hover_shadow_right_papayaWhip2:hover,
+.active_shadow_right_papayaWhip2:active:hover {
+    -webkit-box-shadow: 0.5em 0em 1em rgba(255, 182, 63, .39);
+    -moz-box-shadow: 0.5em 0em 1em rgba(255, 182, 63, .39);
+    box-shadow: 0.5em 0em 1em rgba(255, 182, 63, .39);
+}
+
+.shadow_right_papayaWhip2h,
+.hover_shadow_right_papayaWhip2h:hover,
+.active_shadow_right_papayaWhip2h:active:hover {
+    -webkit-box-shadow: 0.5em 0em 1em rgba(255, 206, 127, .50);
+    -moz-box-shadow: 0.5em 0em 1em rgba(255, 206, 127, .50);
+    box-shadow: 0.5em 0em 1em rgba(255, 206, 127, .50);
+}
+
+.shadow_right_papayaWhip2a,
+.hover_shadow_right_papayaWhip2a:hover,
+.active_shadow_right_papayaWhip2a:active:hover {
+    -webkit-box-shadow: 0.5em 0em 1em rgba(255, 243, 222, .63);
+    -moz-box-shadow: 0.5em 0em 1em rgba(255, 243, 222, .63);
+    box-shadow: 0.5em 0em 1em rgba(255, 243, 222, .63);
+}
+
+.shadow_right_papayaWhip2s,
+.hover_shadow_right_papayaWhip2s:hover,
+.active_shadow_right_papayaWhip2s:active:hover {
+    -webkit-box-shadow: 0.5em 0em 1em rgba(255, 243, 222, .78);
+    -moz-box-shadow: 0.5em 0em 1em rgba(255, 243, 222, .78);
+    box-shadow: 0.5em 0em 1em rgba(255, 243, 222, .78);
+}
+
+/* -------------------------- shadow top settings --------------------------------*/
+.shadow_top_papayaWhip2,
+.hover_shadow_top_papayaWhip2:hover,
+.active_shadow_top_papayaWhip2:active:hover {
+    -webkit-box-shadow: 0em -0.5em 1em rgba(255, 182, 63, .39);
+    -moz-box-shadow: 0em -0.5em 1em rgba(255, 182, 63, .39);
+    box-shadow: 0em -0.5em 1em rgba(255, 182, 63, .39);
+}
+
+.shadow_top_papayaWhip2h,
+.hover_shadow_top_papayaWhip2h:hover,
+.active_shadow_top_papayaWhip2h:active:hover {
+    -webkit-box-shadow: 0em -0.5em 1em rgba(255, 206, 127, .50);
+    -moz-box-shadow: 0em -0.5em 1em rgba(255, 206, 127, .50);
+    box-shadow: 0em -0.5em 1em rgba(255, 206, 127, .50);
+}
+
+.shadow_top_papayaWhip2a,
+.hover_shadow_top_papayaWhip2a:hover,
+.active_shadow_top_papayaWhip2a:active:hover {
+    -webkit-box-shadow: 0em -0.5em 1em rgba(255, 243, 222, .63);
+    -moz-box-shadow: 0em -0.5em 1em rgba(255, 243, 222, .63);
+    box-shadow: 0em -0.5em 1em rgba(255, 243, 222, .63);
+}
+
+.shadow_top_papayaWhip2s,
+.hover_shadow_top_papayaWhip2s:hover,
+.active_shadow_top_papayaWhip2s:active:hover {
+    -webkit-box-shadow: 0em -0.5em 1em rgba(255, 243, 222, .78);
+    -moz-box-shadow: 0em -0.5em 1em rgba(255, 243, 222, .78);
+    box-shadow: 0em -0.5em 1em rgba(255, 243, 222, .78);
+}
+
+/* -------------------------- shadow bottom settings --------------------------------*/
+.shadow_bottom_papayaWhip2,
+.hover_shadow_bottom_papayaWhip2:hover,
+.active_shadow_bottom_papayaWhip2:active:hover {
+    -webkit-box-shadow: 0em 0.5em 1em rgba(255, 182, 63, .39);
+    -moz-box-shadow: 0em 0.5em 1em rgba(255, 182, 63, .39);
+    box-shadow: 0em 0.5em 1em rgba(255, 182, 63, .39);
+}
+
+.shadow_bottom_papayaWhip2h,
+.hover_shadow_bottom_papayaWhip2h:hover,
+.active_shadow_bottom_papayaWhip2h:active:hover {
+    -webkit-box-shadow: 0em 0.5em 1em rgba(255, 206, 127, .50);
+    -moz-box-shadow: 0em 0.5em 1em rgba(255, 206, 127, .50);
+    box-shadow: 0em 0.5em 1em rgba(255, 206, 127, .50);
+}
+
+.shadow_bottom_papayaWhip2a,
+.hover_shadow_bottom_papayaWhip2a:hover,
+.active_shadow_bottom_papayaWhip2a:active:hover {
+    -webkit-box-shadow: 0em 0.5em 1em rgba(255, 243, 222, .63);
+    -moz-box-shadow: 0em 0.5em 1em rgba(255, 243, 222, .63);
+    box-shadow: 0em 0.5em 1em rgba(255, 243, 222, .63);
+}
+
+.shadow_bottom_papayaWhip2s,
+.hover_shadow_bottom_papayaWhip2s:hover,
+.active_shadow_bottom_papayaWhip2s:active:hover {
+    -webkit-box-shadow: 0em 0.5em 1em rgba(255, 243, 222, .78);
+    -moz-box-shadow: 0em 0.5em 1em rgba(255, 243, 222, .78);
+    box-shadow: 0em 0.5em 1em rgba(255, 243, 222, .78);
+}
+
+/* -------------------------- shadow top_left settings --------------------------------*/
+.shadow_top_left_papayaWhip2,
+.hover_shadow_top_left_papayaWhip2:hover,
+.active_shadow_top_left_papayaWhip2:active:hover {
+    -webkit-box-shadow: -0.5em -0.5em 1em rgba(255, 182, 63, .39);
+    -moz-box-shadow: -0.5em -0.5em 1em rgba(255, 182, 63, .39);
+    box-shadow: -0.5em -0.5em 1em rgba(255, 182, 63, .39);
+}
+
+.shadow_top_left_papayaWhip2h,
+.hover_shadow_top_left_papayaWhip2h:hover,
+.active_shadow_top_left_papayaWhip2h:active:hover {
+    -webkit-box-shadow: -0.5em -0.5em 1em rgba(255, 206, 127, .50);
+    -moz-box-shadow: -0.5em -0.5em 1em rgba(255, 206, 127, .50);
+    box-shadow: -0.5em -0.5em 1em rgba(255, 206, 127, .50);
+}
+
+.shadow_top_left_papayaWhip2a,
+.hover_shadow_top_left_papayaWhip2a:hover,
+.active_shadow_top_left_papayaWhip2a:active:hover {
+    -webkit-box-shadow: -0.5em -0.5em 1em rgba(255, 243, 222, .63);
+    -moz-box-shadow: -0.5em -0.5em 1em rgba(255, 243, 222, .63);
+    box-shadow: -0.5em -0.5em 1em rgba(255, 243, 222, .63);
+}
+
+.shadow_top_left_papayaWhip2s,
+.hover_shadow_top_left_papayaWhip2s:hover,
+.active_shadow_top_left_papayaWhip2s:active:hover {
+    -webkit-box-shadow: -0.5em -0.5em 1em rgba(255, 243, 222, .78);
+    -moz-box-shadow: -0.5em -0.5em 1em rgba(255, 243, 222, .78);
+    box-shadow: -0.5em -0.5em 1em rgba(255, 243, 222, .78);
+}
+
+/* -------------------------- shadow top_right settings --------------------------------*/
+.shadow_top_right_papayaWhip2,
+.hover_shadow_top_right_papayaWhip2:hover,
+.active_shadow_top_right_papayaWhip2:active:hover {
+    -webkit-box-shadow: 0.5em -0.5em 1em rgba(255, 182, 63, .39);
+    -moz-box-shadow: 0.5em -0.5em 1em rgba(255, 182, 63, .39);
+    box-shadow: 0.5em -0.5em 1em rgba(255, 182, 63, .39);
+}
+
+.shadow_top_right_papayaWhip2h,
+.hover_shadow_top_right_papayaWhip2h:hover,
+.active_shadow_top_right_papayaWhip2h:active:hover {
+    -webkit-box-shadow: 0.5em -0.5em 1em rgba(255, 206, 127, .50);
+    -moz-box-shadow: 0.5em -0.5em 1em rgba(255, 206, 127, .50);
+    box-shadow: 0.5em -0.5em 1em rgba(255, 206, 127, .50);
+}
+
+.shadow_top_right_papayaWhip2a,
+.hover_shadow_top_right_papayaWhip2a:hover,
+.active_shadow_top_right_papayaWhip2a:active:hover {
+    -webkit-box-shadow: 0.5em -0.5em 1em rgba(255, 243, 222, .63);
+    -moz-box-shadow: 0.5em -0.5em 1em rgba(255, 243, 222, .63);
+    box-shadow: 0.5em -0.5em 1em rgba(255, 243, 222, .63);
+}
+
+.shadow_top_right_papayaWhip2s,
+.hover_shadow_top_right_papayaWhip2s:hover,
+.active_shadow_top_right_papayaWhip2s:active:hover {
+    -webkit-box-shadow: 0.5em -0.5em 1em rgba(255, 243, 222, .78);
+    -moz-box-shadow: 0.5em -0.5em 1em rgba(255, 243, 222, .78);
+    box-shadow: 0.5em -0.5em 1em rgba(255, 243, 222, .78);
+}
+
+/* -------------------------- shadow bottom_left settings --------------------------------*/
+.shadow_bottom_left_papayaWhip2,
+.hover_shadow_bottom_left_papayaWhip2:hover,
+.active_shadow_bottom_left_papayaWhip2:active:hover {
+    -webkit-box-shadow: -0.5em 0.5em 1em rgba(255, 182, 63, .39);
+    -moz-box-shadow: -0.5em 0.5em 1em rgba(255, 182, 63, .39);
+    box-shadow: -0.5em 0.5em 1em rgba(255, 182, 63, .39);
+}
+
+.shadow_bottom_left_papayaWhip2h,
+.hover_shadow_bottom_left_papayaWhip2h:hover,
+.active_shadow_bottom_left_papayaWhip2h:active:hover {
+    -webkit-box-shadow: -0.5em 0.5em 1em rgba(255, 206, 127, .50);
+    -moz-box-shadow: -0.5em 0.5em 1em rgba(255, 206, 127, .50);
+    box-shadow: -0.5em 0.5em 1em rgba(255, 206, 127, .50);
+}
+
+.shadow_bottom_left_papayaWhip2a,
+.hover_shadow_bottom_left_papayaWhip2a:hover,
+.active_shadow_bottom_left_papayaWhip2a:active:hover {
+    -webkit-box-shadow: -0.5em 0.5em 1em rgba(255, 243, 222, .63);
+    -moz-box-shadow: -0.5em 0.5em 1em rgba(255, 243, 222, .63);
+    box-shadow: -0.5em 0.5em 1em rgba(255, 243, 222, .63);
+}
+
+.shadow_bottom_left_papayaWhip2s,
+.hover_shadow_bottom_left_papayaWhip2s:hover,
+.active_shadow_bottom_left_papayaWhip2s:active:hover {
+    -webkit-box-shadow: -0.5em 0.5em 1em rgba(255, 243, 222, .78);
+    -moz-box-shadow: -0.5em 0.5em 1em rgba(255, 243, 222, .78);
+    box-shadow: -0.5em 0.5em 1em rgba(255, 243, 222, .78);
+}
+
+/* -------------------------- shadow bottom_right settings --------------------------------*/
+.shadow_bottom_right_papayaWhip2,
+.hover_shadow_bottom_right_papayaWhip2:hover,
+.active_shadow_bottom_right_papayaWhip2:active:hover {
+    -webkit-box-shadow: 0.5em 0.5em 1em rgba(255, 182, 63, .39);
+    -moz-box-shadow: 0.5em 0.5em 1em rgba(255, 182, 63, .39);
+    box-shadow: 0.5em 0.5em 1em rgba(255, 182, 63, .39);
+}
+
+.shadow_bottom_right_papayaWhip2h,
+.hover_shadow_bottom_right_papayaWhip2h:hover,
+.active_shadow_bottom_right_papayaWhip2h:active:hover  {
+    -webkit-box-shadow: 0.5em 0.5em 1em rgba(255, 206, 127, .50);
+    -moz-box-shadow: 0.5em 0.5em 1em rgba(255, 206, 127, .50);
+    box-shadow: 0.5em 0.5em 1em rgba(255, 206, 127, .50);
+}
+
+.shadow_bottom_right_papayaWhip2a,
+ .hover_shadow_bottom_right_papayaWhip2a:hover,
+ .active_shadow_bottom_right_papayaWhip2a:active:hover {
+     -webkit-box-shadow: 0.5em 0.5em 1em rgba(255, 243, 222, .63);
+     -moz-box-shadow: 0.5em 0.5em 1em rgba(255, 243, 222, .63);
+     box-shadow: 0.5em 0.5em 1em rgba(255, 243, 222, .63);
+ }
+
+ .shadow_bottom_right_papayaWhip2s,
+ .hover_shadow_bottom_right_papayaWhip2s:hover,
+ .active_shadow_bottom_right_papayaWhip2s:active:hover {
+     -webkit-box-shadow: 0.5em 0.5em 1em rgba(255, 243, 222, .78);
+     -moz-box-shadow: 0.5em 0.5em 1em rgba(255, 243, 222, .78);
+     box-shadow: 0.5em 0.5em 1em rgba(255, 243, 222, .78);
+ }

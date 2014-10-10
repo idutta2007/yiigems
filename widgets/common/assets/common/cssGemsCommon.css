@@ -1,0 +1,242 @@
+* {
+    text-rendering: optimizeLegibility;
+}
+
+/* ---------------- border radious settings ----------------------------------*/
+.not_round, .no_round {
+	-webkit-border-radius: 0px;
+	-moz-border-radius: 0px;
+	border-radius: 0px;
+}
+
+.small_round_top_left, .small_round_left, .small_round_top, .small_round {
+    -webkit-border-top-left-radius: .35em; 
+    -moz-border-top-left-radius: .35em;
+    border-top-left-radius: .35em;
+}
+
+.small_round_top_right, .small_round_right, .small_round_top, .small_round {
+    -webkit-border-top-right-radius: .35em; 
+    -moz-border-top-right-radius: .35em;
+    border-top-right-radius: .35em;
+}
+
+.small_round_bottom_left, .small_round_left, .small_round_bottom, .small_round {
+    -webkit-border-bottom-left-radius: .35em; 
+    -moz-border-bottom-left-radius: .35em;
+    border-bottom-left-radius: .35em;
+}
+
+.small_round_bottom_right, .small_round_right, .small_round_bottom, .small_round {
+    -webkit-border-bottom-right-radius: .35em; 
+    -moz-border-bottom-right-radius: .35em;
+    border-bottom-right-radius: .35em;
+}
+
+.round_top_left, .round_left, .round_top, .round {
+    -webkit-border-top-left-radius: .5em; 
+    -moz-border-top-left-radius: .5em;
+    border-top-left-radius: .5em;
+}
+
+.round_top_right, .round_right, .round_top, .round {
+    -webkit-border-top-right-radius: .5em; 
+    -moz-border-top-right-radius: .5em;
+    border-top-right-radius: .5em;
+}
+
+.round_bottom_left, .round_left, .round_bottom, .round {
+    -webkit-border-bottom-left-radius: .5em; 
+    -moz-border-bottom-left-radius: .5em;
+    border-bottom-left-radius: .5em;
+}
+
+.round_bottom_right, .round_right, .round_bottom, .round {
+    -webkit-border-bottom-right-radius: .5em; 
+    -moz-border-bottom-right-radius: .5em;
+    border-bottom-right-radius: .5em;
+}
+
+.medium_round_top_left, .medium_round_left, .medium_round_top, .medium_round {
+    -webkit-border-top-left-radius: 1.0em; 
+    -moz-border-top-left-radius: 1.0em; 
+    border-top-left-radius: 1.0em; 
+}
+
+.medium_round_top_right, .medium_round_right, .medium_round_top, .medium_round {
+    -webkit-border-top-right-radius: 1.0em; 
+    -moz-border-top-right-radius: 1.0em; 
+    border-top-right-radius: 1.0em; 
+}
+
+.medium_round_bottom_left, .medium_round_left, .medium_round_bottom, .medium_round {
+    -webkit-border-bottom-left-radius: 1.0em; 
+    -moz-border-bottom-left-radius: 1.0em; 
+    border-bottom-left-radius: 1.0em; 
+}
+
+.medium_round_bottom_right, .medium_round_right, .medium_round_bottom, .medium_round {
+    -webkit-border-bottom-right-radius: 1.0em;  
+    -moz-border-bottom-right-radius: 1.0em;  
+    border-bottom-right-radius: 1.0em;  
+}
+
+.big_round_top_left, .big_round_left, .big_round_top, .big_round{
+    -webkit-border-top-left-radius: 1.5em;  
+    -moz-border-top-left-radius: 1.5em;  
+    border-top-left-radius: 1.5em;  
+}
+
+.big_round_top_right, .big_round_right, .big_round_top, .big_round {
+    -webkit-border-top-right-radius: 1.5em;  
+    -moz-border-top-right-radius: 1.5em;  
+    border-top-right-radius: 1.5em; 
+}
+
+.big_round_bottom_left, .big_round_left, .big_round_bottom, .big_round {
+    -webkit-border-bottom-left-radius: 1.5em;  
+    -moz-border-bottom-left-radius: 1.5em;   
+    border-bottom-left-radius: 1.5em;   
+}
+
+.big_round_bottom_right, .big_round_right, .big_round_bottom, .big_round {
+    -webkit-border-bottom-right-radius: 1.5em;  
+    -moz-border-bottom-right-radius: 1.5em;   
+    border-bottom-right-radius: 1.5em;
+}
+
+.round_2em_top_left, .round_2em_left, .round_2em_top, .round_2em {
+    -webkit-border-top-left-radius: 2em;  
+    -moz-border-top-left-radius: 2em;  
+    border-top-left-radius: 2em;  
+}
+
+.round_2em_top_right, .round_2em_right, .round_2em_top, .round_2em {
+    -webkit-border-top-right-radius: 2em; 
+    -moz-border-top-right-radius: 2em; 
+    border-top-right-radius: 2em;
+}
+
+.round_2em_bottom_left, .round_2em_left, .round_2em_bottom, .round_2em {
+    -webkit-border-bottom-left-radius: 2em;
+    -moz-border-bottom-left-radius: 2em;
+    border-bottom-left-radius: 2em;
+}
+
+.round_2em_bottom_right, .round_2em_right, .round_2em_bottom, .round_2em {
+    -webkit-border-bottom-right-radius: 2em;
+    -moz-border-bottom-right-radius: 2em;
+    border-bottom-right-radius: 2em;
+}
+
+/* ------------------ border style settings ----------------------------------*/
+.border_style_inset, .hover_border_style_inset:hover, .active_border_style_inset:active {
+    border-style: inset;
+}
+
+.border_style_outset, .hover_border_style_outset:hover, .active_border_style_outset:active {
+    border-style: outset;
+}
+
+/* -----------------------  shadow settings ----------------------------------*/
+.shadow_expand {
+    -webkit-box-shadow: 0em 0em 1em 0.25em rgba(128, 128, 128, .50);
+    -moz-box-shadow: 0em 0em 1em 0.25em rgba(128, 128, 128, .50);
+     box-shadow: 0em 0em 1em 0.25em rgba(128, 128, 128, .50);
+}
+
+.hover_shadow_expand:hover {
+    -webkit-box-shadow: 0em 0em 1em 0.25em rgba(100, 100, 100, .50);
+    -moz-box-shadow: 0em 0em 1em 0.25em rgba(100, 100, 100, .50);
+     box-shadow: 0em 0em 1em 0.25em rgba(100, 100, 100, .50);
+}
+
+.active_shadow_expand:active {
+    -webkit-box-shadow: 0em 0em 1em 0.25em rgba(80, 80, 80, .50);
+    -moz-box-shadow: 0em 0em 1em 0.25em rgba(80, 80, 80, .50);
+     box-shadow: 0em 0em 1em 0.25em rgba(80, 80, 80, .50);
+}
+
+.shadow_left {
+    -webkit-box-shadow: -0.5em 0em 1em rgba(128, 128, 128, .50);
+    -moz-box-shadow: -0.5em 0em 1em rgba(128, 128, 128, .50);
+     box-shadow: -0.5em 0em 1em rgba(128, 128, 128, .50);
+}
+
+.shadow_right {
+    -webkit-box-shadow: 0.5em 0em 1em rgba(128, 128, 128, .50);
+    -moz-box-shadow: 0.5em 0em 1em rgba(128, 128, 128, .50);
+     box-shadow: 0.5em 0em 1em rgba(128, 128, 128, .50);
+}
+
+.shadow_top {
+    -webkit-box-shadow: 0em -0.5em 1em rgba(128, 128, 128, .50);
+    -moz-box-shadow: 0em -0.5em 1em rgba(128, 128, 128, .50);
+     box-shadow: 0em -0.5em 1em rgba(128, 128, 128, .50);
+}
+
+.shadow_bottom {
+    -webkit-box-shadow: 0em 0.5em 1em rgba(128, 128, 128, .50);
+    -moz-box-shadow: 0em 0.5em 1em rgba(128, 128, 128, .50);
+     box-shadow: 0em 0.5em 1em rgba(128, 128, 128, .50);
+}
+
+.shadow_top_left {
+    -webkit-box-shadow: -0.5em -0.5em 1em rgba(128, 128, 128, .50);
+    -moz-box-shadow: -0.5em -0.5em 1em rgba(128, 128, 128, .50);
+     box-shadow: -0.5em -0.5em 1em rgba(128, 128, 128, .50);
+}
+
+.shadow_top_right {
+    -webkit-box-shadow: 0.5em -0.5em 1em rgba(128, 128, 128, .50);
+    -moz-box-shadow: 0.5em -0.5em 1em rgba(128, 128, 128, .50);
+     box-shadow: 0.5em -0.5em 1em rgba(128, 128, 128, .50);
+}
+
+.shadow_bottom_left {
+    -webkit-box-shadow: -0.5em 0.5em 1em rgba(128, 128, 128, .50);
+    -moz-box-shadow: -0.5em 0.5em 1em rgba(128, 128, 128, .50);
+     box-shadow: -0.5em 0.5em 1em rgba(128, 128, 128, .50);
+}
+
+.shadow_bottom_right {
+    -webkit-box-shadow: 0.5em 0.5em 1em rgba(128, 128, 128, .50);
+    -moz-box-shadow: 0.5em 0.5em 1em rgba(128, 128, 128, .50);
+     box-shadow: 0.5em 0.5em 1em rgba(128, 128, 128, .50);
+}
+
+.hover_shadow_bottom_right:hover {
+    -webkit-box-shadow: 0.5em 0.5em 1em rgba(100, 100, 100, .50);
+    -moz-box-shadow: 0.5em 0.5em 1em rgba(100, 100, 100, .50);
+     box-shadow: 0.5em 0.5em 1em rgba(100, 100, 100, .50);
+}
+
+.active_shadow_bottom_right:active {
+    -webkit-box-shadow: 0.5em 0.5em 1em rgba(80, 80, 80, .50);
+    -moz-box-shadow: 0.5em 0.5em 1em rgba(80, 80, 80, .50);
+     box-shadow: 0.5em 0.5em 1em rgba(80, 80, 80, .50);
+}
+
+/* ---------------- font-size ------------------------------------*/
+.font_size8, .tiny_font { font-size: 10px; }
+.font_size10 { font-size: 10px; }
+.font_size12, .small_font { font-size: 12px; }
+.font_size14, .normal_font { font-size: 14px; }
+.font_size16, .medium_font { font-size: 16px; }
+.font_size18 { font-size: 18px; }
+.font_size20, .big_font, .large_font { font-size: 20px; }
+.font_size22 { font-size: 22px; }
+.font_size24 { font-size: 24px; }
+.font_size26 { font-size: 26px; }
+.font_size28 { font-size: 28px; }
+.font_size30 { font-size: 30px; }
+.font_size32 { font-size: 32px; }
+.font_size34 { font-size: 34px; }
+.font_size36 { font-size: 36px; }
+.font_size38 { font-size: 38px; }
+.font_size40 { font-size: 40px; }
+.font_size42 { font-size: 42px; }
+.font_size44 { font-size: 44px; }
+.font_size46 { font-size: 46px; }
+.font_size48 { font-size: 48px; }
+.font_size50 { font-size: 50px; }

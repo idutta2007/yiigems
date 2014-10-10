@@ -1,0 +1,116 @@
+.jupiter {
+    list-style: none;
+    display:block;
+    margin: 0;
+    padding: 0.25em;
+    line-height: 100%;
+}
+
+/* clearfix */
+.jupiter:after {
+    content: ".";
+    display: block;
+    clear: both;
+    visibility: hidden;
+    line-height: 0;
+    height: 0;
+}
+
+/* Style for all list items */
+.jupiter li {
+    display: block;
+    float: left;
+    margin: 0;
+    padding: 0.25em 0;
+    height: 2.5em;
+    position: relative;
+    list-style: none;
+    background: none;
+}
+
+/* Style for all links inside item */
+.jupiter li a {
+    position:relative;
+    display: block;
+    padding:  0.5em 2.5em 0.5em 1.5em;
+    margin: 0;
+    line-height: 1.5;
+    text-decoration: none;
+    vertical-align: middle;
+    text-align: left;
+    white-space: nowrap;
+    overflow: hidden;
+    text-shadow: 1px 1px 1px rgba(0,0,0,.6);
+}
+
+/* Settings for all sub menus */
+.jupiter ul {
+    z-index: 1000;
+    display: none;
+    margin: 0;
+    padding: 0;
+
+    width: 16em;
+    position: absolute;
+    top: 3.0em;
+    left: 0;
+    border-width: 0.15em;
+    border-style: solid;
+}
+
+/* Settings for all sub menu items */
+.jupiter ul li {
+    float: none;
+    margin: 0;
+    padding: 0;
+}
+
+/* Style for separators */
+.jupiter ul li.separator {
+    border: 0;
+    height: 0px;
+    margin:1ex 0;
+    border-bottom-width: 0.1em;
+    border-bottom-style: solid;
+}
+
+/* dropdown */
+.jupiter li:hover > ul {
+    display: block;
+}
+
+/* level 3+ list */
+.jupiter ul ul {
+    left: 15.5em;
+    top: 0em;
+}
+
+/* set margin for first and the last item in the main menu bar */
+.jupiter >li:first-child {
+    margin-left: 0.5em;
+}
+
+.jupiter >li:last-child {
+    margin-right: 0.5em;
+}
+
+.jupiter [class^="icon-"] {
+    line-height: 1.5;
+    vertical-align:top;
+    opacity: 0.6;
+}
+
+.jupiter [class^="icon-"].pull-left{
+    margin-right: 0.5em;
+}
+
+.jupiter [class^="icon-"].pull-right{
+    position:absolute;
+    display:inline-block;
+    top: 0.5em;
+    right: 1em;
+}
+
+.jupiter  a:hover [class^="icon-"] {
+    opacity: 1;
+}

@@ -1,0 +1,60 @@
+.button{
+    display: inline-block;
+    padding: .5em 1.5em;
+    margin: 0 0.5em 0.5em 0;
+    margin-bottom: 0px;
+    line-height:1.2em;
+    text-align: center;
+    vertical-align: middle;
+    outline: none;
+    cursor: pointer;
+    text-decoration: none;
+    font-weight:normal;
+    text-shadow: 1px 1px 1px rgba(0,0,0,.4);
+    border-width: 0.15ex;
+}
+
+.button:hover {
+	text-decoration: none;
+}
+
+.button:active {
+	position: relative;
+	top: 1px;
+}
+
+.button:active.selected {
+    position: relative;
+    top: 0px;
+}
+
+.button.selected {
+    cursor:default;
+}
+
+.button.selected:active {
+	position: relative;
+	top: 0px;
+}
+
+.button [class^="icon-"] {
+    line-height: 1.2em;
+    vertical-align: baseline;
+    opacity: 0.6;
+}
+
+.button [class^="icon-"].pull-left{
+    margin-right: 0.5em;
+}
+
+.button [class^="icon-"].pull-right{
+    margin-left: 0.5em;
+}
+
+.button:hover [class^="icon-"] {
+    opacity: 1;
+}
+
+.button.aquaBtn {
+    font-family: 'Lucida Sans', Verdana, sans-serif;
+}

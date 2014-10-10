@@ -1,0 +1,52 @@
+.vertButtonBar ul {
+    margin:0px;
+    padding:0px;
+    list-style-type: none;
+}
+
+.vertButtonBar ul li {
+    display: block;
+    list-style: none;
+    text-align: left;
+    padding: 0.5em 0em;
+}
+
+.vertButtonBar ul li a {
+    display: block;
+    line-height:1.5em;
+    cursor: pointer;
+    padding: 0.5em 1em;
+    margin:0;
+    text-decoration: none;
+    text-shadow: 1px 1px 1px rgba(0,0,0,.6);
+}
+
+.vertButtonBar ul li a:hover, .vertButtonBar ul li a.selected:hover{
+    text-decoration: none;
+}
+
+.vertButtonBar ul li a.selected {
+    cursor:default;
+}
+
+.vertButtonBar ul li a [class^="icon-"] {
+    line-height: 1.6em;
+    vertical-align: baseline;
+    opacity: 0.6;
+}
+
+.vertButtonBar ul li a [class^="icon-"].pull-left{
+    margin-right: 0.5em;
+}
+
+.vertButtonBar ul li a [class^="icon-"].pull-right{
+    margin-left: 0.5em;
+}
+
+.vertButtonBar ul li a:hover [class^="icon-"] {
+    opacity: 1;
+}
+
+.vertButtonBar ul li a.selected:hover [class^="icon-"] {
+    opacity: 0.6;
+}

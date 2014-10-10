@@ -1,0 +1,37 @@
+
+.faq-basic {
+}
+
+.faq-basic .question {
+    display:block;
+    cursor:pointer;
+    font-size: 1.5em;
+    line-height: 1.8em;
+    border-bottom: 1px dotted gray;
+    color: #555;
+    margin-bottom: 0.5em;
+}
+
+.faq-basic .answer {
+    line-height: 1.6em;
+    margin-bottom:1.2em;
+}
+
+.faq-basic .answer p {
+    text-align: justify;
+    font-size: 1.2em;
+    line-height: 1.6em;
+}
+
+.faq-basic .faqnav {
+    margin-bottom: 1.2em;
+}
+
+.faq-basic .faqnav .separator{
+    margin:0 10px;
+}
+
+.faq-basic .faq-icon {
+    margin-right:0.5em;
+}
+

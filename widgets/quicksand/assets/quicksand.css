@@ -1,0 +1,32 @@
+/* clearfix */
+.quicksand:after {
+    content: ".";
+    display: block;
+    clear: both;
+    visibility: hidden;
+    line-height: 0;
+    height: 0;
+}
+
+.quicksand ul, .quicksand ul li{
+    list-style: none;
+    list-style-image: none
+}
+
+.quicksand ul li {
+    float:left;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    cursor:pointer;
+}
+
+.quicksand ul li img {
+    width: 100px;
+    height:100px;
+    vertical-align: middle;
+    -ms-interpolation-mode: bicubic;
+    -webkit-border-radius: 1em; 
+    -moz-border-radius: 1em;
+    border-radius: 1em;
+}

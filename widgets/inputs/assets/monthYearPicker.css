@@ -1,0 +1,15 @@
+
+.monthYearPicker .titleBox{
+    z-index: 1000;
+}
+
+.monthYearPicker .month, .monthYearPicker .year {
+    padding:0.3ex;margin:0.1ex;
+}
+
+.monthYearPicker span.triggerIcon {
+    cursor:pointer;
+    padding-left:0.4ex;
+    position:absolute;
+}
+

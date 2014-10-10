@@ -1,0 +1,46 @@
+
+.faq-bar {
+}
+
+.faq-bar .question {
+    display:block;
+    cursor:pointer;
+    font-size: 1.2em;
+    line-height: 1.8em;
+    margin-bottom:1em;
+    padding-left: 0.5em;
+}
+
+.faq-bar .answer {
+    line-height: 1.6em;
+    margin-bottom:1.2em;
+}
+
+.faq-bar .answer p {
+    text-align: justify;
+    font-size: 1.2em;
+    line-height: 1.6em;
+}
+
+.faq-bar .answer ul {
+    margin-top:1em;
+    margin-bottom:1em;
+}
+
+.faq-bar .answer ul li {
+    text-align: justify;
+    font-size: 1.2em;
+    line-height: 1.6em;
+}
+
+.faq-bar .faqnav {
+    margin-bottom: 1.2em;
+}
+
+.faq-bar .faqnav .separator{
+    margin:0 10px;
+}
+
+.faq-bar .faq-icon {
+    margin-right:0.5em;
+}

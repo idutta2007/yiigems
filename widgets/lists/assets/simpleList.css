@@ -1,0 +1,15 @@
+.simpleList {
+    font-size: 14px;
+}
+
+.simpleList li {
+    font-size: 14px;
+    line-height: 2em;
+    margin-left: 1ex;
+}
+
+.simpleList li .content{
+    font-size: 14px;
+    line-height: 1.4em;
+    margin-bottom: 1.4ex;
+}

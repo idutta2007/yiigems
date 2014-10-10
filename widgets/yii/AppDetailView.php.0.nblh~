@@ -1,0 +1,38 @@
+<?php
+
+/*
+ * To change this template, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+/**
+ * Description of AppDetailView
+ *
+ * @author HBL3103
+ */
+
+Yii::import("zii.widgets.CDetailView");
+
+class AppDetailView extends CDetailView {
+    public $publishPath;
+    
+    public function init(){
+        $this->publishAssets();
+        parent::init();
+    }
+    
+    private function publishAssets(){
+        $path = dirname(__FILE__) . "/assets";
+        $this->publishPath = Yii::app()->getAssetManager()->publish( $path );
+    }
+    
+    private function getCssFilePath(){
+        return $this->publishPath . "/detailview/styles.css";
+    }
+    
+    private function getPagerCssFilePath(){
+        return $this->publishPath . "/pager/pager.css";
+    }
+}
+
+?>

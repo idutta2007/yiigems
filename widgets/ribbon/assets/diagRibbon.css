@@ -1,0 +1,95 @@
+.diagRibbon {
+  overflow: hidden;
+  white-space: nowrap;
+  padding: 0px;
+}
+
+.diagRibbon.topLeft{
+  position: absolute;
+  
+  -webkit-transform: rotate(-45deg);
+  -moz-transform: rotate(-45deg);
+  -ms-transform: rotate(-45deg);
+  -o-transform: rotate(-45deg);
+  transform: rotate(-45deg);
+  
+  -webkit-transform-origin: 0% 100%;
+  -moz-transform-origin: 0% 100%;
+  -ms-transform-origin: 0% 100%;
+  -o-transform-origin: 0% 100%;
+  transform-origin: 0% 100%;
+}
+
+.diagRibbon.topRight{
+    position: absolute;
+
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    transform: rotate(45deg);
+
+    -webkit-transform-origin: 100% 100%;
+    -moz-transform-origin: 100% 100%;
+    -ms-transform-origin: 100% 100%;
+    -o-transform-origin: 100% 100%;
+    transform-origin: 100% 100%;
+}
+
+.diagRibbon.bottomLeft{
+    position: absolute;
+
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    transform: rotate(45deg);
+
+    -webkit-transform-origin: 0% 0%;
+    -moz-transform-origin: 0% 0%;
+    -ms-transform-origin: 0% 0%;
+    -o-transform-origin: 0% 0%;
+    transform-origin: 0% 0%;
+}
+
+.diagRibbon.bottomRight{
+    position: absolute;
+
+    -webkit-transform: rotate(-45deg);
+    -moz-transform: rotate(-45deg);
+    -ms-transform: rotate(-45deg);
+    -o-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+
+    -webkit-transform-origin: 100% 0%;
+    -moz-transform-origin: 100% 0%;
+    -ms-transform-origin: 100% 0%;
+    -o-transform-origin: 100% 0%;
+    transform-origin: 100% 0%;
+}
+
+
+.diagRibbon .stitchTop, .diagRibbon .stitchBottom {
+    position:absolute;
+    border:1px dashed gray;
+    border-bottom-width:0px;
+    height:0px;
+}
+
+.diagRibbon .innerCont {
+    color: inherit;
+    font-size: inherit;
+}
+
+.diagRibbon a, .diagRibbon h1, .diagRibbon h2, .diagRibbon h3, .diagRibbon h4 {
+  color: inherit;
+  font-size: inherit;
+  line-height: inherit;
+  display: block;
+  text-align: center;
+  text-decoration: none;
+}
+
+.diagRibbon a:hover {
+    color: inherit;
+}

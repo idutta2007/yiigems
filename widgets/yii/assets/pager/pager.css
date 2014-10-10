@@ -1,0 +1,81 @@
+/**
+ * CSS styles for CLinkPager.
+ *
+ * @author Qiang Xue <qiang.xue@gmail.com>
+ * @link http://www.yiiframework.com/
+ * @copyright Copyright &copy; 2008-2010 Yii Software LLC
+ * @license http://www.yiiframework.com/license/
+ * @version $Id: pager.css 1678 2010-01-07 21:02:00Z qiang.xue $
+ * @since 1.0
+ */
+ 
+.pager ul.yiiPager .previous a {
+    float: none; /* added to avoid conflist with twitter bootstap css */
+}
+
+.pager ul.yiiPager .next a {
+    float: none; /* added to avoid conflist with twitter bootstap css */
+}
+
+.pager ul.yiiPager
+{
+	font-size:11px;
+	border:0;
+	margin:0;
+	padding:0;
+	line-height:100%;
+	display:inline;
+}
+
+.pager ul.yiiPager li
+{
+        line-height:100%;
+	display:inline;
+}
+
+.pager ul.yiiPager a:link,
+.pager ul.yiiPager a:visited
+{
+        font-size: 0.9em;
+	border:solid 1px gray;
+	font-weight:bold;
+	color: #007;
+	padding:2px 6px;
+	text-decoration:none;
+        background:white;
+}
+
+.pager ul.yiiPager .page a
+{
+	font-weight:normal;
+}
+
+.pager ul.yiiPager a:hover
+{
+	border:solid 1px black;
+}
+
+.pager ul.yiiPager .selected a
+{
+        background-color:black;
+        background-image:url(bg.gif);
+        background-position: left center;
+        background-repeat:repeat-x;
+	color:white;
+	font-weight:bold;
+}
+
+.pager ul.yiiPager .hidden a
+{
+	border:solid 1px #DEDEDE;
+	color:#888;
+}
+
+/**
+ * Hide first and last buttons by default.
+ */
+.pager ul.yiiPager .first,
+.pager ul.yiiPager .last
+{
+	display:none;
+}
