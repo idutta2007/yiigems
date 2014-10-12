@@ -1,7 +1,7 @@
 yiigems
 =======
 
-YiiGems is a Yii 1.1 extension which provides about 50 widgets to build your web application. YiiGems also provides an
+YiiGems is a Yii 1.x extension which provides about 50 widgets to build your web application. YiiGems also provides an
 application skin class using which you can change the look and feel of your widgets so that no two web sites built by you should
 look the same. For examples on YiiGems widgets, see www.yiigems.com.
 
